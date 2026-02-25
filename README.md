@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Daniel+Dieser+(MrMoz);Investigador+de+Robótica+e+IA;Especialista+en+Seguridad" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Daniel+Dieser+(MrMoz);Investigador+de+Robótica+e+IA;Hacking+y+Seguridad+de+la+Información" alt="Typing SVG" />
 
-### 🔬 Robotics Research & Information Security | 🛡️ Cybersecurity Specialist
+### 🔬 Robotics Research & Information Security | 🛡️ Hacking y Seguridad de la Información
 
 **📍 Puerto Madryn, Chubut, Argentina**  
 **🏢 Tokio AI Security Research, Inc**
@@ -19,7 +19,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un **investigador independiente de robótica e inteligencia artificial** con pasión por la **seguridad de la información** y el desarrollo de tecnologías innovadoras. Mi trabajo se centra en crear soluciones que tengan un impacto real, especialmente en **Latinoamérica**.
+Soy un **investigador independiente de robótica e inteligencia artificial** con pasión por el **hacking y la seguridad de la información** y el desarrollo de tecnologías innovadoras. Mi trabajo se centra en crear soluciones que tengan un impacto real, especialmente en **Latinoamérica**.
 
 > *"El bit defectuoso del fin del mundo..."* 🌎
 
@@ -27,32 +27,30 @@ He desarrollado sistemas completos de seguridad, asistentes de voz, y plataforma
 
 ---
 
-## 🎯 Áreas de Especialización y Proyectos
-
-### 🛡️ TokioAI - Autonomous Security Operations Center
+## 🛡️ TokioAI - Autonomous Security Operations Center
 
 **🔒 Repositorio Privado (próximamente público)** | [🌐 Sitio Web](https://tokioia.com)
 
 Plataforma completa de nivel SOC que despliega, protege y opera toda tu infraestructura de seguridad mediante un agente de IA autónomo.
 
-#### Características Principales:
+### 🎯 Características Principales
 
 **Intelligent WAF (Web Application Firewall)**
-- Proxy reverso basado en Nginx con 15+ firmas WAF
+- Proxy reverso basado en Nginx con **15+ firmas WAF**
 - Detección en tiempo real de: SQL Injection, XSS (reflejado/almacenado), path traversal, command injection, SSRF, Log4Shell, scanners (Nikto, sqlmap, Nmap), exploits de WordPress, configuraciones expuestas (.env, .git)
 - Inspección de cada petición HTTP en tiempo real
 
 **ML Threat Classification (OWASP Top 10)**
-- Procesador en tiempo real con machine learning
+- Procesador en tiempo real con **machine learning**
 - Clasificación por severidad (critical, high, medium, low, normal)
-- Mapeo a categorías OWASP Top 10 2021: A01 (Broken Access Control), A03 (Injection), A05 (Security Misconfiguration), A06 (Vulnerable Components), A07 (Auth Failures), A10 (SSRF)
+- Mapeo a categorías **OWASP Top 10 2021**: A01 (Broken Access Control), A03 (Injection), A05 (Security Misconfiguration), A06 (Vulnerable Components), A07 (Auth Failures), A10 (SSRF)
 - Minimización de falsos positivos con exclusiones inteligentes de paths
 
 **3-Tier Auto-Blocking Engine**
 - Bloqueo inmediato en coincidencias críticas de firmas WAF (SQLi, RCE)
 - Bloqueo basado en episodios cuando se detectan patrones de ataque sostenidos
 - Bloqueo por rate-limit cuando se exceden umbrales de volumen
-- Bloqueos escritos en blocklist de Nginx con recarga automática (zero downtime)
+- Bloqueos escritos en blocklist de Nginx con recarga automática (**zero downtime**)
 
 **Episode Detection & Attack Correlation**
 - Agrupa eventos de ataque relacionados de la misma IP en ventanas de tiempo configurables
@@ -60,7 +58,7 @@ Plataforma completa de nivel SOC que despliega, protege y opera toda tu infraest
 - Escalación automática de severidad basada en conteo y tipos de eventos
 
 **One-Command GCP Deployment**
-- Despliegue completo de WAF + ML + Dashboard en Google Cloud Platform con un solo comando
+- Despliegue completo de WAF + ML + Dashboard en **Google Cloud Platform** con un solo comando
 - Crea automáticamente: VPC network + subnet, firewall rules, static IP, Compute Engine VM, contenedores Docker (Nginx, Kafka, Zookeeper, PostgreSQL, ML Processor, Dashboard API, Blocklist Sync), certificados SSL vía Let's Encrypt con auto-renovación, y configuración DNS
 
 **Real-Time Security Dashboard**
@@ -75,7 +73,7 @@ Plataforma completa de nivel SOC que despliega, protege y opera toda tu infraest
 - Entiende contexto, ejecuta herramientas, encadena operaciones multi-paso
 - Maneja errores y reintentos inteligentemente
 - Requiere confirmación explícita para acciones peligrosas
-- Soporta OpenAI (GPT-4), Anthropic (Claude), y Google Gemini con fallback automático
+- Soporta **OpenAI (GPT-4), Anthropic (Claude), y Google Gemini** con fallback automático
 
 **Integraciones Completas**
 - **Telegram Bot**: Control completo desde Telegram, alertas en tiempo real, ACL de seguridad
@@ -86,32 +84,32 @@ Plataforma completa de nivel SOC que despliega, protege y opera toda tu infraest
 
 **Infrastructure as Code**
 - Crea y destruye infraestructura completa con comandos en lenguaje natural
-- Usa Google Cloud Python SDK (sin necesidad de Terraform o gcloud CLI)
+- Usa **Google Cloud Python SDK** (sin necesidad de Terraform o gcloud CLI)
 - Auto-scaling con Managed Instance Groups (MIG)
-- Pipeline de Kafka que maneja millones de eventos por minuto
+- Pipeline de **Kafka** que maneja millones de eventos por minuto
 
 **Stack Tecnológico Completo**
-- Backend: Python 3.11+, FastAPI, Uvicorn, PyJWT, Psycopg2, kafka-python, Paramiko, Google Cloud SDK
-- Infrastructure: Docker, Docker Compose, Nginx, Apache Kafka, Zookeeper, PostgreSQL, Let's Encrypt
-- Cloud: Google Cloud Platform, Compute Engine, VPC Networking, Managed Instance Groups
-- AI/LLM: OpenAI GPT-4, Anthropic Claude, Google Gemini, MCP Protocol
-- Frontend: Chart.js, Vanilla JS, CSS3 Animations, Dark Theme
+- **Backend**: Python 3.11+, FastAPI, Uvicorn, PyJWT, Psycopg2, kafka-python, Paramiko, Google Cloud SDK
+- **Infrastructure**: Docker, Docker Compose, Nginx, Apache Kafka, Zookeeper, PostgreSQL, Let's Encrypt
+- **Cloud**: Google Cloud Platform, Compute Engine, VPC Networking, Managed Instance Groups
+- **AI/LLM**: OpenAI GPT-4, Anthropic Claude, Google Gemini, MCP Protocol
+- **Frontend**: Chart.js, Vanilla JS, CSS3 Animations, Dark Theme
 
 ---
 
-### 🤖 JarvisIA - Primer Asistente de Voz en Español
+## 🤖 JarvisIA - Primer Asistente de Voz en Español
 
-[![GitHub](https://img.shields.io/github/stars/daletoniris/JarvisIA?style=flat-square)](https://github.com/daletoniris/JarvisIA)
+[![GitHub](https://img.shields.io/github/stars/daletoniris/JarvisIA?style=flat-square)](https://github.com/daletoniris/JarvisIA) [![Forks](https://img.shields.io/github/forks/daletoniris/JarvisIA?style=flat-square)](https://github.com/daletoniris/JarvisIA)
 
 El **primer asistente de voz en español** creado para fomentar el desarrollo de IA en Latinoamérica.
 
 **Características:**
-- 🎤 Reconocimiento de voz en español usando Wit.ai y TensorFlow
+- 🎤 Reconocimiento de voz en español usando **Wit.ai** y **TensorFlow**
 - 🧠 Procesamiento de lenguaje natural (NLP)
 - 🏠 Control de dispositivos IoT y domótica
-- 📱 Compatible con Raspberry Pi
+- 📱 Compatible con **Raspberry Pi**
 - 🎯 Totalmente modular y extensible
-- 🔌 Integración con Google Speech API para voz natural
+- 🔌 Integración con **Google Speech API** para voz natural
 
 **Impacto:**
 - Proyecto educativo que ha inspirado a desarrolladores en toda Latinoamérica
@@ -120,18 +118,18 @@ El **primer asistente de voz en español** creado para fomentar el desarrollo de
 
 ---
 
-### 🛡️ Web Application Firewall Enhanced with AI
+## 🛡️ Web Application Firewall Enhanced with AI
 
-[![GitHub](https://img.shields.io/github/stars/daletoniris/Web-Application-Firewall-Purple-AI-Paper?style=flat-square)](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper)
+[![GitHub](https://img.shields.io/github/stars/daletoniris/Web-Application-Firewall-Purple-AI-Paper?style=flat-square)](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) [![Forks](https://img.shields.io/github/forks/daletoniris/Web-Application-Firewall-Purple-AI-Paper?style=flat-square)](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper)
 
 Sistema híbrido de WAF que combina **Naive Bayes** con **ChatGPT** para detección autónoma de amenazas.
 
 **Innovación:**
 - Combina clasificador estático (Naive Bayes) con modelo generativo (ChatGPT)
-- Aprendizaje dinámico y autónomo que reduce dependencia del modelo generativo
-- Detección de ataques zero-day y vectores emergentes
+- **Aprendizaje dinámico y autónomo** que reduce dependencia del modelo generativo
+- Detección de ataques **zero-day** y vectores emergentes
 - Retrenamiento continuo basado en feedback del modelo generativo
-- Paper académico publicado sobre el enfoque
+- **Paper académico publicado** sobre el enfoque
 
 **Capacidades:**
 - Detección de XSS, SQL Injection, Path Traversal, Command Injection, RFI, LDAP Injection, Code Injection
@@ -141,9 +139,9 @@ Sistema híbrido de WAF que combina **Naive Bayes** con **ChatGPT** para detecci
 
 ---
 
-### 🌱 Detección de Plagas en Plantas con TensorFlow
+## 🌱 Detección de Plagas en Plantas con TensorFlow
 
-[![GitHub](https://img.shields.io/github/stars/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow?style=flat-square)](https://github.com/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow)
+[![GitHub](https://img.shields.io/github/stars/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow?style=flat-square)](https://github.com/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow) [![Forks](https://img.shields.io/badge/Forks-7-blue)](https://github.com/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow)
 
 Sistema de visión por computadora para detección automática de plagas en plantas comestibles.
 
@@ -151,22 +149,14 @@ Sistema de visión por computadora para detección automática de plagas en plan
 - 🔍 Detección en tiempo real con cámara
 - 📸 Análisis de imágenes estáticas
 - 🎥 Procesamiento de video
-- 🤖 Modelo entrenado con MobileNet v1.0_224
-- 📱 Compatible con Android (TensorFlow Lite)
-- 🍓 Soporta 30+ tipos de plantas y plagas
+- 🤖 Modelo entrenado con **MobileNet v1.0_224**
+- 📱 Compatible con **Android** (TensorFlow Lite)
+- 🍓 Soporta **30+ tipos de plantas y plagas**
 
 **Aplicación:**
 - Papa, tomate, cereza, naranjo, maíz, uva, manzana, durazno, arándano, pimiento, fresa, soja
 - Detección de enfermedades: tizón, mosaico, manchas bacterianas, moho, podredumbre, etc.
 - Aplicación práctica en agricultura (AgTech)
-
----
-
-### 📱 Jarvis V2 - Telegram Bot
-
-[![GitHub](https://img.shields.io/github/stars/daletoniris/Jarvis-V2-Telegram?style=flat-square)](https://github.com/daletoniris/Jarvis-V2-Telegram)
-
-Versión mejorada de JarvisIA con integración completa de Telegram para control remoto.
 
 ---
 
@@ -208,6 +198,40 @@ Versión mejorada de JarvisIA con integración completa de Telegram para control
 
 ---
 
+## 🎯 Habilidades Técnicas Detalladas
+
+### Seguridad y Ciberseguridad
+- **WAF Development**: Desarrollo de Web Application Firewalls con detección de firmas, ML, y modelos generativos
+- **Threat Detection**: Detección de amenazas OWASP Top 10, zero-day attacks, y análisis de comportamiento
+- **Auto-Mitigation**: Sistemas de bloqueo automático multi-capa con correlación de episodios
+- **Security Operations**: Operaciones de seguridad automatizadas, respuesta a incidentes, y análisis forense
+- **Penetration Testing**: Testing de vulnerabilidades, análisis de seguridad, y hacking ético
+- **Network Security**: Configuración de firewalls, routers, VPN, y seguridad perimetral
+
+### Machine Learning e IA
+- **NLP**: Procesamiento de lenguaje natural para asistentes de voz y comandos en lenguaje natural
+- **Computer Vision**: Visión por computadora para detección de plagas, object detection (YOLO, SSD, Faster R-CNN)
+- **ML Classification**: Clasificación de amenazas con Naive Bayes, modelos generativos (ChatGPT), y aprendizaje autónomo
+- **Deep Learning**: TensorFlow, PyTorch, MobileNet para modelos optimizados para móviles
+- **LLM Integration**: Integración con GPT-4, Claude, Gemini para análisis y automatización
+
+### Infraestructura y DevOps
+- **Cloud Architecture**: Diseño e implementación en GCP (Compute Engine, VPC, Managed Instance Groups)
+- **Containerization**: Docker, Docker Compose, orquestación de servicios
+- **Event Streaming**: Apache Kafka, Zookeeper para pipelines de alto rendimiento
+- **Database Design**: PostgreSQL con esquemas multi-tenant, optimización de queries, y análisis de datos
+- **Infrastructure as Code**: Automatización completa con Google Cloud Python SDK
+- **CI/CD**: Pipelines de despliegue automatizados
+
+### Desarrollo de Software
+- **Backend**: Python (FastAPI, Flask), Go, arquitecturas RESTful y APIs
+- **Frontend**: JavaScript, Chart.js, dashboards en tiempo real, diseño responsive
+- **Integrations**: Telegram Bot API, Home Assistant, Alexa, SSH, APIs de DNS
+- **Security**: JWT authentication, ACL, prompt injection guards, manejo seguro de secretos
+- **Testing**: Testing de seguridad, validación de vulnerabilidades, pruebas de penetración
+
+---
+
 ## 🏆 Logros y Contribuciones
 
 - 🥇 **Primer asistente de voz en español** (JarvisIA) - Proyecto pionero en Latinoamérica
@@ -226,35 +250,6 @@ Versión mejorada de JarvisIA con integración completa de Telegram para control
   - Sistema de aprendizaje autónomo y dinámico
   - Reducción progresiva de dependencia del modelo generativo
   - [Ver Paper](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper)
-
----
-
-## 🎯 Habilidades Técnicas Detalladas
-
-### Seguridad y Ciberseguridad
-- **WAF Development**: Desarrollo de Web Application Firewalls con detección de firmas, ML, y modelos generativos
-- **Threat Detection**: Detección de amenazas OWASP Top 10, zero-day attacks, y análisis de comportamiento
-- **Auto-Mitigation**: Sistemas de bloqueo automático multi-capa con correlación de episodios
-- **Security Operations**: Operaciones de seguridad automatizadas, respuesta a incidentes, y análisis forense
-
-### Machine Learning e IA
-- **NLP**: Procesamiento de lenguaje natural para asistentes de voz y comandos en lenguaje natural
-- **Computer Vision**: Visión por computadora para detección de plagas, object detection (YOLO, SSD, Faster R-CNN)
-- **ML Classification**: Clasificación de amenazas con Naive Bayes, modelos generativos (ChatGPT), y aprendizaje autónomo
-- **Deep Learning**: TensorFlow, PyTorch, MobileNet para modelos optimizados para móviles
-
-### Infraestructura y DevOps
-- **Cloud Architecture**: Diseño e implementación en GCP (Compute Engine, VPC, Managed Instance Groups)
-- **Containerization**: Docker, Docker Compose, orquestación de servicios
-- **Event Streaming**: Apache Kafka, Zookeeper para pipelines de alto rendimiento
-- **Database Design**: PostgreSQL con esquemas multi-tenant, optimización de queries, y análisis de datos
-- **Infrastructure as Code**: Automatización completa con Google Cloud Python SDK
-
-### Desarrollo de Software
-- **Backend**: Python (FastAPI, Flask), Go, arquitecturas RESTful y APIs
-- **Frontend**: JavaScript, Chart.js, dashboards en tiempo real, diseño responsive
-- **Integrations**: Telegram Bot API, Home Assistant, Alexa, SSH, APIs de DNS
-- **Security**: JWT authentication, ACL, prompt injection guards, manejo seguro de secretos
 
 ---
 
