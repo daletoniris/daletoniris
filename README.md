@@ -87,7 +87,7 @@ El **primer asistente de voz en español** creado para fomentar el desarrollo de
 - 📱 Compatible con Raspberry Pi
 
 [![Stars](https://img.shields.io/github/stars/daletoniris/JarvisIA?style=flat-square)](https://github.com/daletoniris/JarvisIA)
-[![Forks](https://img.shields.io/github/forks/daletoniris/JarvisIA?style=flat-square)](https://github.com/daletoniris/JarvisIA)
+[![Forks](https://img.shields.io/badge/Forks-3-blue)](https://github.com/daletoniris/JarvisIA)
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ Sistema de detección de plagas usando **TensorFlow** y visión por computadora.
 - 📱 Compatible con Android
 
 [![Stars](https://img.shields.io/github/stars/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow?style=flat-square)](https://github.com/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow)
-[![Forks](https://img.shields.io/github/forks/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow?style=flat-square)](https://github.com/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow)
+[![Forks](https://img.shields.io/badge/Forks-7-blue)](https://github.com/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow)
 
 </td>
 <td width="50%">
@@ -116,7 +116,7 @@ Asistente de voz mejorado con integración de Telegram.
 - 🧠 IA Avanzada
 - 🔔 Notificaciones
 
-[![Stars](https://img.shields.io/github/stars/daletoniris/Jarvis-V2-Telegram?style=flat-square)](https://github.com/daletoniris/Jarvis-V2-Telegram)
+[![GitHub](https://img.shields.io/badge/Ver%20Repo-181717?style=flat-square&logo=github)](https://github.com/daletoniris/Jarvis-V2-Telegram)
 
 </td>
 </tr>
