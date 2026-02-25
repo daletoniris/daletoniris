@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Daniel+Dieser+(MrMoz);Investigador+de+Robótica+e+IA;Hacking+y+Seguridad+de+la+Información" alt="Typing SVG" />
-
 ### 🔬 Robotics Research & Information Security | 🛡️ Hacking y Seguridad de la Información
 
 **📍 Puerto Madryn, Chubut, Argentina**  
@@ -351,7 +349,7 @@ Trabajo con organizaciones como:
 
 **¿Tienes un proyecto interesante o quieres colaborar?**
 
-[![Email](https://img.shields.io/badge/Email-me-blue?style=for-the-badge&logo=gmail)](mailto:admin.airesiliencehub+tokio@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-me-blue?style=for-the-badge&logo=gmail)](mailto:daletoniris@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Contact-181717?style=for-the-badge&logo=github)](https://github.com/daletoniris)
 [![Website](https://img.shields.io/badge/Website-TokioAI-4ECDC4?style=for-the-badge)](https://tokioia.com)
 
