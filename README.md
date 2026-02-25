@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-dieser)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/daletoniris)
 [![Website](https://img.shields.io/badge/Website-TokioAI-4ECDC4?style=for-the-badge)](https://tokioia.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin.airesiliencehub+tokio@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daletoniris@gmail.com)
 
 </div>
 
@@ -346,7 +346,7 @@ Sistema de visión por computadora con TensorFlow.
 Trabajo con organizaciones como:
 - **@initiasur** - Iniciativas de investigación en robótica e IA
 - **@NiperiaLab** - Laboratorio de investigación
-- **Tokio AI Security Research, Inc** - Investigación en seguridad y desarrollo de TokioAI
+- **Tokio AI Security Research, Inc** - Investigación en seguridad, robotica, IA y desarrollo de TokioAI
 
 ---
 
