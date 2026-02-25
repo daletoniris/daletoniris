@@ -336,10 +336,8 @@ Sistema de visión por computadora con TensorFlow.
 
 ## 🤝 Colaboraciones y Organizaciones
 
-Trabajo con organizaciones como:
-- **@initiasur** - Iniciativas de investigación en robótica e IA
-- **@NiperiaLab** - Laboratorio de investigación
-- **Tokio AI Security Research, Inc** - Investigación en seguridad, robotica, IA y desarrollo de TokioAI
+- **@NiperiaLab** - Laboratorio de investigación, MakerLab de iniciativa propia para crear basicamente lo que quiera, robots, IA, Hacking, solo por diversión y curiosidad, me gusta solo crear cosas para jugar. 
+- **Tokio AI Security Research, Inc** - Investigación en seguridad, robotica, IA y Desarrollo de TokioAI
 
 ---
 
