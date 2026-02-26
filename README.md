@@ -2,7 +2,7 @@
 
 📍 **Puerto Madryn, Chubut, Argentina** | 🛡️ **Hacking y Seguridad de la Información** | 🤖 **Robotics & AI Researcher**
 
-Python TypeScript JavaScript Go TensorFlow OpenCV PostgreSQL Docker GCP Kafka Nginx
+`Python` `TypeScript` `JavaScript` `Go` `TensorFlow` `OpenCV` `PostgreSQL` `Docker` `GCP` `Kafka` `Nginx`
 
 > Deep in building autonomous security systems with AI. After years of research, shipping production-grade WAFs and voice assistants feels like the future is here.
 
