@@ -48,8 +48,10 @@ Not a dashboard. Not a monitoring tool. A full **Security Operations Center** th
 
 `Python` `FastAPI` `PostgreSQL` `Kafka` `Nginx` `Docker` `GCP` `Anthropic Claude` `OpenAI GPT-4` `Google Gemini`
 
-### 🧠 AI Resilience Hub
-**[airesiliencehub.com](https://airesiliencehub.com)** — Research and resources for AI-powered cybersecurity. Because defense should evolve as fast as the threats.
+### 🧠 AI Resilience Hub — Ekoparty AI Village
+**[airesiliencehub.com](https://airesiliencehub.com)**
+
+We lead the **AI Village at Ekoparty**, the largest security conference in Latin America. Research, workshops, and live demos on AI-powered cybersecurity — offensive and defensive. Building the bridge between AI and infosec communities.
 
 ---
 
@@ -121,18 +123,9 @@ from a place nobody expects innovation to come from.
 
 ## 📊 Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=daletoniris&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=9f9f9f&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daletoniris&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=9f9f9f&langs_count=8" height="165"/>
-</p>
+![daletoniris's GitHub stats](https://github-readme-stats.vercel.app/api?username=daletoniris&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-<p align="center">
-<img src="https://github-readme-streak-stats.demolab.com/?user=daletoniris&theme=radical&hide_border=true&background=0D1117&ring=4ECDC4&fire=4ECDC4&currStreakLabel=4ECDC4"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daletoniris&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&line=4ECDC4&point=4ECDC4"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daletoniris&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
