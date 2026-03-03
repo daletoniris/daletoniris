@@ -98,6 +98,7 @@ The beginning. Building robots, experimenting with hardware, and falling in love
 | 🏴 | [**ai-security-ctf**](https://github.com/daletoniris/ai-security-ctf) | 5 CTF challenges for Ekoparty AI Village: prompt injection, adversarial attacks, forensic analysis, AI-powered defense. Docker-ready. |
 | 📡 | [**iot-traffic-monitor**](https://github.com/daletoniris/iot-traffic-monitor) | KNN + Gemini AI to detect anomalous IoT device traffic in real time. Active learning pipeline that gets smarter with every packet. |
 | 🐳 | [**pentest-docker-tools**](https://github.com/daletoniris/pentest-docker-tools) | Dockerized pentesting: remote nmap via WMI + AI-assisted Kali prompt. One `docker run` and you're scanning. |
+| ⚛️ | [**quantic-encoder**](https://github.com/daletoniris/quantic-encoder) | Hybrid WAF log classifier: KNN proximity + DeepSeek LLM fallback with active learning. On-demand A100 GPU via Terraform, Stripe SaaS billing. Millions of logs, one pipeline. |
 | 🎓 | [**ekoparty-ml-security**](https://github.com/daletoniris/ekoparty-ml-security) | ML for threat detection — training materials from Ekoparty AI Village workshops. From unsupervised anomaly detection to LLM-assisted active learning. |
 
 ---
