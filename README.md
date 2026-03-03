@@ -44,7 +44,7 @@ Not a dashboard. Not a monitoring tool. A full **Security Operations Center** th
 - 🔗 **Multi-phase correlation** — tracks attackers across recon → probe → exploit → exfiltration
 - 🤖 **AI Agent** — Claude, GPT-4, Gemini with automatic fallback. Speaks any language. Takes action.
 - 🏗️ **One-command deploy** — entire infrastructure on GCP with a single command
-- 🔧 **62 SOAR tools** — IBM Resilient, Microsoft Defender, Atlassian, Kafka, Antispam, Web Integrity
+- 🔧 **Extensible tool framework** — modular architecture for integrating any security stack
 
 `Python` `FastAPI` `PostgreSQL` `Kafka` `Nginx` `Docker` `GCP` `Anthropic Claude` `OpenAI GPT-4` `Google Gemini`
 
@@ -81,7 +81,7 @@ I didn't start in cybersecurity. I started **teaching machines to see**. Then I 
 | | Project | What I Built |
 |---|---------|-------------|
 | 📄 | [**WAF-AI-Paper**](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) | Published academic paper: hybrid WAF combining Naive Bayes + GPT. Autonomous dynamic learning. Zero-day detection. |
-| 🏰 | **TokioAI Platform** *(private)* | Production SOC protecting live infrastructure. 26 signatures, SOAR with 62 tools, real-time ML, multi-LLM agent. The whole thing. |
+| 🏰 | **TokioAI Platform** *(private)* | Production SOC protecting live infrastructure. 26 signatures, real-time ML classification, multi-LLM autonomous agent. The whole thing. |
 
 ---
 
