@@ -57,24 +57,33 @@ We lead the **AI Village at Ekoparty**, the largest security conference in Latin
 
 ## 🗺️ The Journey — Every Project Led Here
 
-I didn't start in cybersecurity. I started **teaching machines to see**. Then I taught them to listen. Then I broke them. Then I realized: if I can break AI, I can build AI that can't be broken.
+I didn't start in cybersecurity. I started **building robots in 2012**. Then I taught machines to see. Then to listen. Then I broke them. Then I realized: if I can break AI, I can build AI that can't be broken.
 
-### 🔬 2018-2020 — Teaching Machines to See
+### 🤖 2012-2014 — Robotics & First Steps
 
-| | Project | What I Built |
-|---|---------|-------------|
-| 👁️ | [**tensorflow-object-detection**](https://github.com/daletoniris/tensorflow-object-detection) | Real-time detection on Raspberry Pi. Custom training pipeline from scratch: annotate, train SSD MobileNet, deploy to edge. Made a Pi detect pets and control a robot. |
-| 🌱 | [**deteccion-de-plagas**](https://github.com/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow) | Plant pest detection for 30+ species. MobileNet + Android. AgTech that actually works in the field. |
-| 🔓 | [**captcha-solver-ml**](https://github.com/daletoniris/captcha-solver-ml) | Three different ML approaches to CAPTCHA solving: Selenium + TF, custom CNN, letter segmentation. Because why try one when you can try all. |
-| 🔥 | [**fire-detection-yolov3**](https://github.com/daletoniris/fire-detection-yolov3) | Real-time fire detection with custom YOLOv3. Trained on fire datasets. Because Patagonia burns. |
+The beginning. Building robots, experimenting with hardware, and falling in love with making machines do things they shouldn't be able to do. No GitHub back then — just solder, code, and curiosity.
 
-### 🎙️ 2021 — Teaching Machines to Listen, Breaking Them, and Building Community
+### 🧠 2015-2017 — AI with TensorFlow & JarvisIA
 
 | | Project | What I Built |
 |---|---------|-------------|
 | 🤖 | [**JarvisIA**](https://github.com/daletoniris/JarvisIA) | **First Spanish voice assistant.** Wit.ai NLP + Google Speech + IoT control + Telegram. Built in Puerto Madryn for Latin America. Pioneer project. |
-| 💥 | [**adversarial-ml-attacks**](https://github.com/daletoniris/adversarial-ml-attacks) | FGSM attacks on MobileNetV2. The moment I understood: **if you can fool a neural network, you can also defend one.** This is where TokioAI was born. |
+| 👁️ | [**tensorflow-object-detection**](https://github.com/daletoniris/tensorflow-object-detection) | Real-time detection on Raspberry Pi. Custom training pipeline from scratch: annotate, train SSD MobileNet, deploy to edge. Made a Pi detect pets and control a robot. |
+| 🌱 | [**deteccion-de-plagas**](https://github.com/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow) | Plant pest detection for 30+ species. MobileNet + Android. AgTech that actually works in the field. |
+
+### 🔬 2018-2020 — Deep Learning & Computer Vision
+
+| | Project | What I Built |
+|---|---------|-------------|
+| 🔓 | [**captcha-solver-ml**](https://github.com/daletoniris/captcha-solver-ml) | Three different ML approaches to CAPTCHA solving: Selenium + TF, custom CNN, letter segmentation. Because why try one when you can try all. |
+| 🔥 | [**fire-detection-yolov3**](https://github.com/daletoniris/fire-detection-yolov3) | Real-time fire detection with custom YOLOv3. Trained on fire datasets. Because Patagonia burns. |
 | 🛰️ | [**ndvi-drone-analysis**](https://github.com/daletoniris/ndvi-drone-analysis) | NDVI vegetation maps from drone imagery with OpenCV. Precision agriculture from above. |
+
+### 🎙️ 2021-2022 — Breaking AI, Offensive Security & Building Community
+
+| | Project | What I Built |
+|---|---------|-------------|
+| 💥 | [**adversarial-ml-attacks**](https://github.com/daletoniris/adversarial-ml-attacks) | FGSM attacks on MobileNetV2. The moment I understood: **if you can fool a neural network, you can also defend one.** This is where TokioAI was born. |
 | 🎤 | [**security-talks**](https://github.com/daletoniris/security-talks) | Slides from **Chubut Hack** — the cybersecurity community I co-founded. 20+ talks, speakers from all over LATAM. Adversarial AI, wardriving, Linux hardening. |
 | ⚔️ | [**htb-writeups**](https://github.com/daletoniris/htb-writeups) | HackTheBox machines, password spraying, WordPress exploitation. Offensive skills that built my defensive vision. |
 
@@ -113,7 +122,7 @@ I can build a WAF that can't be fooled.
 So I did.
 
 TokioAI is not a startup pitch. It's the convergence
-of 8 years of building things that actually work,
+of 13 years of building things that actually work,
 from a place nobody expects innovation to come from.
 
 "El bit defectuoso del fin del mundo..."
@@ -123,9 +132,9 @@ from a place nobody expects innovation to come from.
 
 ## 📊 Stats
 
-![daletoniris's GitHub stats](https://github-readme-stats.vercel.app/api?username=daletoniris&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daletoniris&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daletoniris&layout=compact&theme=tokyonight&langs_count=8)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daletoniris&theme=radical)
 
 ---
 
