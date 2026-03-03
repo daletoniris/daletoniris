@@ -93,6 +93,12 @@ The beginning. Building robots, experimenting with hardware, and falling in love
 |---|---------|-------------|
 | 📄 | [**WAF-AI-Paper**](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) | Published academic paper: hybrid WAF combining Naive Bayes + GPT. Autonomous dynamic learning. Zero-day detection. |
 | 🏰 | **TokioAI Platform** *(private)* | Production SOC protecting live infrastructure. 26 signatures, real-time ML classification, multi-LLM autonomous agent. The whole thing. |
+| 🕵️ | [**agent-smiths**](https://github.com/daletoniris/agent-smiths) | MCP-based autonomous security agent. LLM-driven planning, multi-tool orchestration (nmap, testssl, nikto), automated reporting. The brain behind autonomous pentesting. |
+| 🧪 | [**adversarial-waf-ml**](https://github.com/daletoniris/adversarial-waf-ml) | TensorFlow models that generate adversarial WAF evasion payloads through feedback loops. Break WAFs to build better WAFs. |
+| 🏴 | [**ai-security-ctf**](https://github.com/daletoniris/ai-security-ctf) | 5 CTF challenges for Ekoparty AI Village: prompt injection, adversarial attacks, forensic analysis, AI-powered defense. Docker-ready. |
+| 📡 | [**iot-traffic-monitor**](https://github.com/daletoniris/iot-traffic-monitor) | KNN + Gemini AI to detect anomalous IoT device traffic in real time. Active learning pipeline that gets smarter with every packet. |
+| 🐳 | [**pentest-docker-tools**](https://github.com/daletoniris/pentest-docker-tools) | Dockerized pentesting: remote nmap via WMI + AI-assisted Kali prompt. One `docker run` and you're scanning. |
+| 🎓 | [**ekoparty-ml-security**](https://github.com/daletoniris/ekoparty-ml-security) | ML for threat detection — training materials from Ekoparty AI Village workshops. From unsupervised anomaly detection to LLM-assisted active learning. |
 
 ---
 
