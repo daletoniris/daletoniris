@@ -74,11 +74,19 @@ We lead the **AI Village at Ekoparty**, the largest security conference in Latin
 
 ## 🗺️ The Journey — Every Project Led Here
 
-I didn't start in cybersecurity. I started **building robots in 2012**. Then I taught machines to see. Then to listen. Then I broke them. Then I realized: if I can break AI, I can build AI that can't be broken.
+I didn't start in cybersecurity. I didn't start with code. I started as **a kid in my brother's electronics workshop** in Villaguay, Entre Ríos — a small neighborhood facing a cemetery. We built machines with our hands: sound devices, mosquito repellers, FM radio transmitters, spy microphones. Then I built scientific instruments from nothing — a pluviometer, a barometer, a hygrometer made from human hair, an ant farm, a telescope from old lenses. That kid never left.
 
-### 🤖 2012-2014 — Robotics & First Steps
+### 🔌 Childhood — The Workshop Next to the Cemetery
 
-The beginning. Building robots, experimenting with hardware, and falling in love with making machines do things they shouldn't be able to do.
+The real beginning. A small town, a big brother, and an electronics workshop. Building machines from scraps: FM transmitters, spy mics, mosquito repellers. Building science from curiosity: rain gauges, barometers, telescopes from old lenses. Watching ants build colonies. Watching stars through homemade optics.
+
+### 🔓 2007-2012 — The Return & Cybersecurity Origins
+
+At 25, the curious kid came back. Started with **malware reversing**, migrated to **Chubut, Patagonia**. From 2010-2012, reported multiple vulnerabilities that improved security of important provincial systems — real responsible disclosure on production infrastructure. Founded **Chubut Hack** to bring hacking culture to a region where none existed.
+
+### 🤖 2012-2014 — Robotics & Hardware
+
+Back to building physical machines. The same impulse from the workshop, now with better tools.
 
 ### 🧠 2015-2017 — AI with TensorFlow & JarvisIA
 
@@ -101,7 +109,7 @@ The beginning. Building robots, experimenting with hardware, and falling in love
 | | Project | What I Built |
 |---|---------|-------------|
 | 💥 | [**adversarial-ml-attacks**](https://github.com/daletoniris/adversarial-ml-attacks) | FGSM attacks on MobileNetV2. **If you can fool a neural network, you can also defend one.** This is where TokioAI was born. |
-| 🎤 | [**security-talks**](https://github.com/daletoniris/security-talks) | Slides from **Chubut Hack** — the cybersecurity community I co-founded. 20+ talks. |
+| 🎤 | [**security-talks**](https://github.com/daletoniris/security-talks) | Slides from **Chubut Hack** — the cybersecurity community I founded. 20+ talks, speakers from all over LATAM. |
 | ⚔️ | [**htb-writeups**](https://github.com/daletoniris/htb-writeups) | HackTheBox writeups. Offensive skills that built my defensive vision. |
 
 ### 🛡️ 2024-2026 — Everything Converges
@@ -135,31 +143,36 @@ The beginning. Building robots, experimenting with hardware, and falling in love
 ## 🧉 Philosophy
 
 ```
-I build from the end of the world.
+It started in a workshop next to a cemetery.
 
-Puerto Madryn: 45° south latitude, population 120k,
-a city where penguins outnumber developers.
+Villaguay, Entre Ríos. A kid and his older brother
+building electronic machines from scraps: FM radios,
+spy microphones, mosquito repellers. Then a pluviometer
+from a tin can. A barometer. A hygrometer made with
+human hair. A telescope from old lenses. An ant farm
+to watch colonies organize. A stellarium to map the sky.
 
-I started with a Raspberry Pi and a dream of building
-an AI assistant in Spanish — because not everything
-has to be in English, not everything has to come from
-Silicon Valley, and not everything needs permission.
+That kid didn't have a computer. He had solder,
+curiosity, and a brother who taught him that
+if you can imagine it, you can build it.
 
-I taught kids robotics in school (1st to 6th grade).
-I co-founded Chubut Hack and brought 20+ security
-talks to a place that had zero conferences.
-I built JarvisIA — the first voice assistant in Spanish.
+At 25, that kid came back. Started reverse-engineering
+malware. Migrated to Patagonia. Reported vulnerabilities
+that fixed real systems. Founded Chubut Hack because
+nobody was teaching security in his region.
 
-Then I realized: if I can train a model to detect fire,
-I can train one to detect an attacker.
-If I can fool a neural network with adversarial noise,
-I can build a WAF that can't be fooled.
+Then he taught machines to see fire, detect pests,
+solve CAPTCHAs. Then he broke them with adversarial
+attacks. Then he realized: if you can break AI,
+you can build AI that can't be broken.
 
-So I did.
+Puerto Madryn: 45° south latitude, population 120k.
+Penguins outnumber developers. The wind teaches
+you that persistence isn't optional.
 
 TokioAI is not a startup pitch. It's the convergence
-of 13 years of building things that actually work,
-from a place nobody expects innovation to come from.
+of a lifetime of building things that work, from a
+place nobody expects innovation to come from.
 
 "No busco que las máquinas sean humanas.
  Busco que los humanos recuerden cómo aprenden."
