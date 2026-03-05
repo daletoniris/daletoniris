@@ -78,7 +78,7 @@ I didn't start in cybersecurity. I didn't start with code. I started as **a kid 
 
 ### 🔌 Childhood — The Workshop Next to the Cemetery
 
-The real beginning. A small town, a big brother, and an electronics workshop. Building machines from scraps: FM transmitters, spy mics, mosquito repellers. Building science from curiosity: rain gauges, barometers, telescopes from old lenses. Watching ants build colonies. Watching stars through homemade optics.
+The real beginning. A small town in Villaguay, a big brother, and an electronics workshop facing a cemetery. Building machines from scraps: FM transmitters, spy mics, mosquito repellers. But also **obsessed with nature** — hours observing insects and plants, trying to understand how they worked. Built an ant farm to watch emergent behavior, a telescope from old lenses to map the sky, scientific instruments from nothing (pluviometer, barometer, hygrometer made from human hair). Once **dissected a frog with a Gillette razor blade** following a manual — because he needed to know how things work inside. That impulse never left: the tool changed from a Gillette to a debugger to TensorFlow, but the drive is the same.
 
 ### 🔓 2007-2012 — The Return & Cybersecurity Origins
 
@@ -147,14 +147,23 @@ It started in a workshop next to a cemetery.
 
 Villaguay, Entre Ríos. A kid and his older brother
 building electronic machines from scraps: FM radios,
-spy microphones, mosquito repellers. Then a pluviometer
-from a tin can. A barometer. A hygrometer made with
-human hair. A telescope from old lenses. An ant farm
-to watch colonies organize. A stellarium to map the sky.
+spy microphones, mosquito repellers.
+
+But also outside — in the dirt, under rocks,
+between plants. Watching insects for hours.
+Studying how ants organize without a leader.
+Building an ant farm to observe emergent behavior.
+Dissecting a frog with a Gillette, following a manual,
+because he needed to know how things work inside.
+
+A pluviometer from a tin can. A barometer.
+A hygrometer made with human hair.
+A telescope from old lenses. A stellarium.
 
 That kid didn't have a computer. He had solder,
-curiosity, and a brother who taught him that
-if you can imagine it, you can build it.
+curiosity, a razor blade, and a brother who
+taught him that if you can imagine it,
+you can build it.
 
 At 25, that kid came back. Started reverse-engineering
 malware. Migrated to Patagonia. Reported vulnerabilities
