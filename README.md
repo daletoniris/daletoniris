@@ -32,19 +32,36 @@ Cybersecurity researcher, AI builder, and the kind of person who trains neural n
 
 ## 🔥 What I'm Building Now
 
+### 📖 Alchemind — The Complete AI Journey
+> **"From the first artificial neurons to the quantum consciousness of intelligence."**
+
+**[→ Read the Book + Labs](https://github.com/daletoniris/alchemind)**
+
+A comprehensive book, course, and lab environment covering the full arc of AI — from McCulloch & Pitts' mathematical neuron (1943) to autonomous defensive systems deployed in production today. 8 chapters, 2 papers, 4 hands-on labs, and **The Warden** autonomous defense architecture.
+
+Includes:
+- 📚 **8 Chapters** — AI history, neural networks, ML algorithms, biases & validation, The Warden, static vs adaptive defense
+- 📄 **2 Papers** — "Redes Neuronales como nunca te las explicaron" (2018), "La Realidad que Aprende" manifesto
+- 🧪 **4 Labs** — Classification, threshold tuning, confusion matrices, active learning pipelines
+- 🏗️ **The Warden** — Autonomous defense architecture: KNN + LLM + active learning feedback loop
+
+`Python` `scikit-learn` `TF-IDF` `KNN` `Active Learning` `Claude/GPT`
+
+---
+
 ### 🛡️ TokioAI — Autonomous SOC Platform
 > **"An AI that protects you while you sleep."**
 
-**[tokioia.com](https://tokioia.com)** | **[Published Paper](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper)**
+**[→ Source Code](https://github.com/TokioAI/tokioai-v1.8)** | **[Published Paper](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper)** | **[tokioia.com](https://tokioia.com)**
 
 Not a dashboard. Not a monitoring tool. A full **Security Operations Center** that thinks, decides, and acts autonomously.
 
 - 🧠 **26 WAF signatures** + behavioral rules + honeypot traps + IP reputation scoring
 - ⚡ **Instant blocking** — critical attacks die on the first request
 - 🔗 **Multi-phase correlation** — tracks attackers across recon → probe → exploit → exfiltration
-- 🤖 **AI Agent** — Claude, GPT-4, Gemini with automatic fallback. Speaks any language. Takes action.
-- 🏗️ **One-command deploy** — entire infrastructure on GCP with a single command
-- 🔧 **Extensible tool framework** — modular architecture for integrating any security stack
+- 🤖 **AI Agent (63 tools)** — Claude, GPT-4, Gemini with automatic fallback, 3 retries + exponential backoff
+- 🔧 **Integrations** — SOAR (IBM Resilient), Microsoft Defender, Jira/Confluence, Kafka, Telegram
+- 📊 **Document generation** — PDF reports, PPTX presentations, CSV exports via natural language
 
 `Python` `FastAPI` `PostgreSQL` `Kafka` `Nginx` `Docker` `GCP` `Anthropic Claude` `OpenAI GPT-4` `Google Gemini`
 
@@ -61,45 +78,57 @@ I didn't start in cybersecurity. I started **building robots in 2012**. Then I t
 
 ### 🤖 2012-2014 — Robotics & First Steps
 
-The beginning. Building robots, experimenting with hardware, and falling in love with making machines do things they shouldn't be able to do. No GitHub back then — just solder, code, and curiosity.
+The beginning. Building robots, experimenting with hardware, and falling in love with making machines do things they shouldn't be able to do.
 
 ### 🧠 2015-2017 — AI with TensorFlow & JarvisIA
 
 | | Project | What I Built |
 |---|---------|-------------|
 | 🤖 | [**JarvisIA**](https://github.com/daletoniris/JarvisIA) | **First Spanish voice assistant.** Wit.ai NLP + Google Speech + IoT control + Telegram. Built in Puerto Madryn for Latin America. Pioneer project. |
-| 👁️ | [**tensorflow-object-detection**](https://github.com/daletoniris/tensorflow-object-detection) | Real-time detection on Raspberry Pi. Custom training pipeline from scratch: annotate, train SSD MobileNet, deploy to edge. Made a Pi detect pets and control a robot. |
-| 🌱 | [**deteccion-de-plagas**](https://github.com/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow) | Plant pest detection for 30+ species. MobileNet + Android. AgTech that actually works in the field. |
+| 👁️ | [**tensorflow-object-detection**](https://github.com/daletoniris/tensorflow-object-detection) | Real-time detection on Raspberry Pi. Custom training pipeline from scratch. |
+| 🌱 | [**deteccion-de-plagas**](https://github.com/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow) | Plant pest detection for 30+ species. MobileNet + Android. |
 
 ### 🔬 2018-2020 — Deep Learning & Computer Vision
 
 | | Project | What I Built |
 |---|---------|-------------|
-| 🔓 | [**captcha-solver-ml**](https://github.com/daletoniris/captcha-solver-ml) | Three different ML approaches to CAPTCHA solving: Selenium + TF, custom CNN, letter segmentation. Because why try one when you can try all. |
-| 🔥 | [**fire-detection-yolov3**](https://github.com/daletoniris/fire-detection-yolov3) | Real-time fire detection with custom YOLOv3. Trained on fire datasets. Because Patagonia burns. |
-| 🛰️ | [**ndvi-drone-analysis**](https://github.com/daletoniris/ndvi-drone-analysis) | NDVI vegetation maps from drone imagery with OpenCV. Precision agriculture from above. |
+| 🔓 | [**captcha-solver-ml**](https://github.com/daletoniris/captcha-solver-ml) | Three different ML approaches to CAPTCHA solving. |
+| 🔥 | [**fire-detection-yolov3**](https://github.com/daletoniris/fire-detection-yolov3) | Real-time fire detection with custom YOLOv3. Because Patagonia burns. |
+| 🛰️ | [**ndvi-drone-analysis**](https://github.com/daletoniris/ndvi-drone-analysis) | NDVI vegetation maps from drone imagery with OpenCV. |
 
 ### 🎙️ 2021-2022 — Breaking AI, Offensive Security & Building Community
 
 | | Project | What I Built |
 |---|---------|-------------|
-| 💥 | [**adversarial-ml-attacks**](https://github.com/daletoniris/adversarial-ml-attacks) | FGSM attacks on MobileNetV2. The moment I understood: **if you can fool a neural network, you can also defend one.** This is where TokioAI was born. |
-| 🎤 | [**security-talks**](https://github.com/daletoniris/security-talks) | Slides from **Chubut Hack** — the cybersecurity community I co-founded. 20+ talks, speakers from all over LATAM. Adversarial AI, wardriving, Linux hardening. |
-| ⚔️ | [**htb-writeups**](https://github.com/daletoniris/htb-writeups) | HackTheBox machines, password spraying, WordPress exploitation. Offensive skills that built my defensive vision. |
+| 💥 | [**adversarial-ml-attacks**](https://github.com/daletoniris/adversarial-ml-attacks) | FGSM attacks on MobileNetV2. **If you can fool a neural network, you can also defend one.** This is where TokioAI was born. |
+| 🎤 | [**security-talks**](https://github.com/daletoniris/security-talks) | Slides from **Chubut Hack** — the cybersecurity community I co-founded. 20+ talks. |
+| ⚔️ | [**htb-writeups**](https://github.com/daletoniris/htb-writeups) | HackTheBox writeups. Offensive skills that built my defensive vision. |
 
 ### 🛡️ 2024-2026 — Everything Converges
 
 | | Project | What I Built |
 |---|---------|-------------|
+| 📖 | [**Alchemind**](https://github.com/daletoniris/alchemind) | **The Book.** Complete journey through AI: history, neural networks, The Warden autonomous defense architecture, 4 hands-on labs, 2 papers. Everything I've learned in 13 years, compressed for you. |
 | 📄 | [**WAF-AI-Paper**](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) | Published academic paper: hybrid WAF combining Naive Bayes + GPT. Autonomous dynamic learning. Zero-day detection. |
-| 🏰 | **TokioAI Platform** *(private)* | Production SOC protecting live infrastructure. 26 signatures, real-time ML classification, multi-LLM autonomous agent. The whole thing. |
-| 🕵️ | [**agent-smiths**](https://github.com/daletoniris/agent-smiths) | MCP-based autonomous security agent. LLM-driven planning, multi-tool orchestration (nmap, testssl, nikto), automated reporting. The brain behind autonomous pentesting. |
-| 🧪 | [**adversarial-waf-ml**](https://github.com/daletoniris/adversarial-waf-ml) | TensorFlow models that generate adversarial WAF evasion payloads through feedback loops. Break WAFs to build better WAFs. |
-| 🏴 | [**ai-security-ctf**](https://github.com/daletoniris/ai-security-ctf) | 5 CTF challenges for Ekoparty AI Village: prompt injection, adversarial attacks, forensic analysis, AI-powered defense. Docker-ready. |
-| 📡 | [**iot-traffic-monitor**](https://github.com/daletoniris/iot-traffic-monitor) | KNN + Gemini AI to detect anomalous IoT device traffic in real time. Active learning pipeline that gets smarter with every packet. |
-| 🐳 | [**pentest-docker-tools**](https://github.com/daletoniris/pentest-docker-tools) | Dockerized pentesting: remote nmap via WMI + AI-assisted Kali prompt. One `docker run` and you're scanning. |
-| ⚛️ | [**quantic-encoder**](https://github.com/daletoniris/quantic-encoder) | Hybrid WAF log classifier: KNN proximity + DeepSeek LLM fallback with active learning. On-demand A100 GPU via Terraform, Stripe SaaS billing. Millions of logs, one pipeline. |
-| 🎓 | [**ekoparty-ml-security**](https://github.com/daletoniris/ekoparty-ml-security) | ML for threat detection — training materials from Ekoparty AI Village workshops. From unsupervised anomaly detection to LLM-assisted active learning. |
+| 🏰 | [**TokioAI Platform**](https://github.com/TokioAI/tokioai-v1.8) | Production autonomous SOC. 26 WAF signatures, 63 tools, multi-LLM agent, real-time ML classification, Telegram bot, SOAR/Defender/Jira integration. |
+| 🕵️ | [**agent-smiths**](https://github.com/daletoniris/agent-smiths) | MCP-based autonomous security agent. LLM-driven planning, multi-tool orchestration (nmap, testssl, nikto). |
+| 🧪 | [**adversarial-waf-ml**](https://github.com/daletoniris/adversarial-waf-ml) | TensorFlow models that generate adversarial WAF evasion payloads through feedback loops. |
+| 🏴 | [**ai-security-ctf**](https://github.com/daletoniris/ai-security-ctf) | 5 CTF challenges for Ekoparty AI Village. Docker-ready. |
+| 📡 | [**iot-traffic-monitor**](https://github.com/daletoniris/iot-traffic-monitor) | KNN + Gemini AI for anomalous IoT traffic detection. Active learning pipeline. |
+| 🐳 | [**pentest-docker-tools**](https://github.com/daletoniris/pentest-docker-tools) | Dockerized pentesting: remote nmap + AI-assisted Kali interface. |
+| ⚛️ | [**quantic-encoder**](https://github.com/daletoniris/quantic-encoder) | Hybrid WAF log classifier: KNN + DeepSeek LLM. On-demand A100 GPU via Terraform, Stripe SaaS. |
+| 🎓 | [**ekoparty-ml-security**](https://github.com/daletoniris/ekoparty-ml-security) | ML for threat detection — Ekoparty AI Village training materials. |
+
+---
+
+## 📐 Publications & Papers
+
+| Year | Title | Type |
+|------|-------|------|
+| 2018 | [**Redes Neuronales como nunca te las explicaron**](https://github.com/daletoniris/alchemind/blob/main/papers/neural-networks-2018.md) | Educational Paper |
+| 2024 | [**WAF Enhanced with AI through Autonomous Dynamic Learning**](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) | Academic Paper |
+| 2025 | [**La Realidad que Aprende**](https://github.com/daletoniris/alchemind/blob/main/papers/la-realidad-que-aprende.md) | Manifesto |
+| 2026 | [**Alchemind**](https://github.com/daletoniris/alchemind) | Book + Labs |
 
 ---
 
@@ -131,6 +160,9 @@ So I did.
 TokioAI is not a startup pitch. It's the convergence
 of 13 years of building things that actually work,
 from a place nobody expects innovation to come from.
+
+"No busco que las máquinas sean humanas.
+ Busco que los humanos recuerden cómo aprenden."
 
 "El bit defectuoso del fin del mundo..."
 ```
