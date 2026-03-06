@@ -52,7 +52,7 @@ Includes:
 ### 🛡️ TokioAI — Autonomous SOC Platform
 > **"An AI that protects you while you sleep."**
 
-**[→ Source Code](https://github.com/TokioAI/tokioai-v1.8)** | **[Published Paper](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper)** | **[tokioia.com](https://tokioia.com)**
+**[→ Source Code](https://github.com/TokioAI/tokioai-v1.8)** | **[tokioia.com](https://tokioia.com)**
 
 Not a dashboard. Not a monitoring tool. A full **Security Operations Center** that thinks, decides, and acts autonomously.
 
@@ -62,8 +62,9 @@ Not a dashboard. Not a monitoring tool. A full **Security Operations Center** th
 - 🤖 **AI Agent (63 tools)** — Claude, GPT-4, Gemini with automatic fallback, 3 retries + exponential backoff
 - 🔧 **Integrations** — SOAR (IBM Resilient), Microsoft Defender, Jira/Confluence, Kafka, Telegram
 - 📊 **Document generation** — PDF reports, PPTX presentations, CSV exports via natural language
+- 🚁 **NEW: Drone Control** — DJI Tello flight control via natural language: takeoff, patrol patterns (square, triangle, circle, zigzag, sweep), camera, telemetry, and full simulation mode without hardware
 
-`Python` `FastAPI` `PostgreSQL` `Kafka` `Nginx` `Docker` `GCP` `Anthropic Claude` `OpenAI GPT-4` `Google Gemini`
+`Python` `FastAPI` `PostgreSQL` `Kafka` `Nginx` `Docker` `GCP` `Anthropic Claude` `OpenAI GPT-4` `Google Gemini` `DJI Tello`
 
 ### 🧠 AI Resilience Hub — Ekoparty AI Village
 **[airesiliencehub.com](https://airesiliencehub.com)**
