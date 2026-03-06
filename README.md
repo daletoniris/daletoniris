@@ -85,9 +85,19 @@ The real beginning. A small town in Villaguay, a big brother, and an electronics
 
 At 25, the curious kid came back. Started with **malware reversing**, migrated to **Chubut, Patagonia**. From 2010-2012, reported multiple vulnerabilities that improved security of important provincial systems — real responsible disclosure on production infrastructure. Founded **Chubut Hack** to bring hacking culture to a region where none existed.
 
-### 🤖 2012-2014 — Robotics & Hardware
+### 🤖 2012-2014 — Robotics, Drones & Hardware
 
 Back to building physical machines. The same impulse from the workshop, now with better tools.
+
+| | Project | What I Built |
+|---|---------|-------------|
+| 🚁 | [**drone-hacker-shield**](https://github.com/daletoniris/drone-hacker-shield) | Arduino flight controller shield for quadcopters. MPU6050 sensor fusion, PID stabilization, motor mixing. Building drones from scratch. |
+| 🛩️ | [**drone-pilot**](https://github.com/daletoniris/drone-pilot) | Autonomous pilot for companion computers. MultiWii/Pixhawk control, PID hover, **neural network flight controller**, OpenCV vision, waypoint navigation. |
+| 🎮 | [**fly-drone-controller**](https://github.com/daletoniris/fly-drone-controller) | Python drone toolkit: MultiWii protocol, joystick, waypoints, neural nets, hover controllers, IMU plotting, face detection. The Swiss Army knife of my drone lab. |
+| 📡 | [**multiwii-sonar**](https://github.com/daletoniris/multiwii-sonar) | MultiWii firmware + ultrasonic sonar for indoor altitude hold. |
+| 📡 | [**multiwii-sonar-v2**](https://github.com/daletoniris/multiwii-sonar-v2) | Improved sonar integration — better filtering, more stable hover. |
+| 🌡️ | [**multiwii-humidity-sensor**](https://github.com/daletoniris/multiwii-humidity-sensor) | MultiWii firmware + DHT environmental sensor. Drones that measure their environment. |
+| 🧱 | [**rasti-block-robotics**](https://github.com/daletoniris/rasti-block-robotics) | Robotics with Rasti Block (Argentine building blocks) + Arduino + IR remote. Innovation doesn't need expensive equipment. |
 
 ### 🧠 2015-2017 — AI with TensorFlow & JarvisIA
 
@@ -109,6 +119,7 @@ Back to building physical machines. The same impulse from the workshop, now with
 
 | | Project | What I Built |
 |---|---------|-------------|
+| 🐜 | [**ant-project**](https://github.com/daletoniris/ant-project) | Digital formicarium — Raspberry Pi + PiCamera + DHT22 + light sensor. Time-lapse recording of ant colonies with environmental data. From childhood ant farms to digital observation systems. |
 | 💥 | [**adversarial-ml-attacks**](https://github.com/daletoniris/adversarial-ml-attacks) | FGSM attacks on MobileNetV2. **If you can fool a neural network, you can also defend one.** This is where TokioAI was born. |
 | 🎤 | [**security-talks**](https://github.com/daletoniris/security-talks) | Slides from **Chubut Hack** — the cybersecurity community I founded. 20+ talks, speakers from all over LATAM. |
 | ⚔️ | [**htb-writeups**](https://github.com/daletoniris/htb-writeups) | HackTheBox writeups. Offensive skills that built my defensive vision. |
