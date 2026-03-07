@@ -59,7 +59,7 @@ Includes:
 ### 🛡️ TokioAI — Autonomous SOC Platform
 > **"An AI that protects you while you sleep."**
 
-**[→ Source Code](https://github.com/TokioAI/tokioai-v1.8)** | **[tokioia.com](https://tokioia.com)**
+**[→ Source Code](https://github.com/TokioAI/tokioai-v1.8)** | **[→ Mirror on my profile](https://github.com/daletoniris/tokioai-mirror)** | **[tokioia.com](https://tokioia.com)**
 
 Not a dashboard. Not a monitoring tool. A full **Security Operations Center** that thinks, decides, and acts autonomously.
 

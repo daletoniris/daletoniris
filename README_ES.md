@@ -52,7 +52,7 @@ Incluye:
 - 🧪 **4 Laboratorios** — Clasificación, ajuste de umbrales, matrices de confusión, pipelines de aprendizaje activo
 - 🏗️ **The Warden** — Arquitectura de defensa autónoma: KNN + LLM + ciclo de retroalimentación con aprendizaje activo
 
-`Python` `scikit-learn` `TF-IDF` `KNN` `Active Learning` `Claude/GPT`
+`Python` `scikit-learn` `TF-IDF` `KNN` `Aprendizaje Activo` `Claude/GPT`
 
 ---
 
@@ -73,10 +73,10 @@ No es un dashboard. No es una herramienta de monitoreo. Es un **Centro de Operac
 
 `Python` `FastAPI` `PostgreSQL` `Kafka` `Nginx` `Docker` `GCP` `Anthropic Claude` `OpenAI GPT-4` `Google Gemini` `DJI Tello`
 
-### 🧠 AI Resilience Hub — Ekoparty AI Village
+### 🧠 AI Resilience Hub — Village de IA en Ekoparty
 **[airesiliencehub.com](https://airesiliencehub.com)**
 
-Lideramos la **AI Village en Ekoparty**, la conferencia de seguridad más grande de Latinoamérica. Investigación, workshops y demos en vivo sobre ciberseguridad potenciada por IA — ofensiva y defensiva. Construyendo el puente entre las comunidades de IA e infosec.
+Lideramos el **Village de IA en Ekoparty**, la conferencia de seguridad más grande de Latinoamérica. Investigación, talleres y demos en vivo sobre ciberseguridad potenciada por IA — ofensiva y defensiva. Construyendo el puente entre las comunidades de IA e infosec.
 
 ---
 
@@ -114,7 +114,7 @@ De vuelta a construir máquinas físicas. El mismo impulso del taller, ahora con
 | 👁️ | [**tensorflow-object-detection**](https://github.com/daletoniris/tensorflow-object-detection) | Detección en tiempo real en Raspberry Pi. Pipeline de entrenamiento custom desde cero. |
 | 🌱 | [**deteccion-de-plagas**](https://github.com/daletoniris/deteccion-de-plagas-en-plantas-con-tensorflow) | Detección de plagas en plantas para 30+ especies. MobileNet + Android. |
 
-### 🔬 2018-2020 — Deep Learning y Visión por Computadora
+### 🔬 2018-2020 — Aprendizaje Profundo y Visión por Computadora
 
 | | Proyecto | Qué Construí |
 |---|---------|-------------|
@@ -126,10 +126,10 @@ De vuelta a construir máquinas físicas. El mismo impulso del taller, ahora con
 
 | | Proyecto | Qué Construí |
 |---|---------|-------------|
-| 🐜 | [**ant-project**](https://github.com/daletoniris/ant-project) | Formicario digital — Raspberry Pi + PiCamera + DHT22 + sensor de luz. Time-lapse de colonias de hormigas con datos ambientales. De los hormigueros de la infancia a sistemas de observación digital. |
+| 🐜 | [**ant-project**](https://github.com/daletoniris/ant-project) | Formicario digital — Raspberry Pi + PiCamera + DHT22 + sensor de luz. Grabación temporal de colonias de hormigas con datos ambientales. De los hormigueros de la infancia a sistemas de observación digital. |
 | 💥 | [**adversarial-ml-attacks**](https://github.com/daletoniris/adversarial-ml-attacks) | Ataques FGSM sobre MobileNetV2. **Si podés engañar a una red neuronal, también podés defenderla.** Acá nació TokioAI. |
-| 🎤 | [**security-talks**](https://github.com/daletoniris/security-talks) | Slides de **Chubut Hack** — la comunidad de ciberseguridad que fundé. 20+ charlas, speakers de toda LATAM. |
-| ⚔️ | [**htb-writeups**](https://github.com/daletoniris/htb-writeups) | Writeups de HackTheBox. Habilidades ofensivas que construyeron mi visión defensiva. |
+| 🎤 | [**security-talks**](https://github.com/daletoniris/security-talks) | Presentaciones de **Chubut Hack** — la comunidad de ciberseguridad que fundé. 20+ charlas, ponentes de toda LATAM. |
+| ⚔️ | [**htb-writeups**](https://github.com/daletoniris/htb-writeups) | Resoluciones de HackTheBox. Habilidades ofensivas que construyeron mi visión defensiva. |
 
 ### 🛡️ 2024-2026 — Todo Converge
 
@@ -140,11 +140,11 @@ De vuelta a construir máquinas físicas. El mismo impulso del taller, ahora con
 | 🏰 | [**TokioAI Platform**](https://github.com/TokioAI/tokioai-v1.8) | SOC autónomo en producción. 26 firmas WAF, 63 herramientas, agente multi-LLM, clasificación ML en tiempo real, bot de Telegram, integración SOAR/Defender/Jira. |
 | 🕵️ | [**agent-smiths**](https://github.com/daletoniris/agent-smiths) | Agente de seguridad autónomo basado en MCP. Planificación con LLM, orquestación multi-herramienta (nmap, testssl, nikto). |
 | 🧪 | [**adversarial-waf-ml**](https://github.com/daletoniris/adversarial-waf-ml) | Modelos TensorFlow que generan payloads adversariales de evasión WAF mediante ciclos de retroalimentación. |
-| 🏴 | [**ai-security-ctf**](https://github.com/daletoniris/ai-security-ctf) | 5 desafíos CTF para Ekoparty AI Village. Listos para Docker. |
-| 📡 | [**iot-traffic-monitor**](https://github.com/daletoniris/iot-traffic-monitor) | KNN + Gemini AI para detección de tráfico IoT anómalo. Pipeline de aprendizaje activo. |
+| 🏴 | [**ai-security-ctf**](https://github.com/daletoniris/ai-security-ctf) | 5 desafíos CTF para el Village de IA en Ekoparty. Listos para Docker. |
+| 📡 | [**iot-traffic-monitor**](https://github.com/daletoniris/iot-traffic-monitor) | KNN + Gemini IA para detección de tráfico IoT anómalo. Pipeline de aprendizaje activo. |
 | 🐳 | [**pentest-docker-tools**](https://github.com/daletoniris/pentest-docker-tools) | Pentesting dockerizado: nmap remoto + interfaz Kali asistida por IA. |
-| ⚛️ | [**quantic-encoder**](https://github.com/daletoniris/quantic-encoder) | Clasificador híbrido de logs WAF: KNN + DeepSeek LLM. GPU A100 on-demand via Terraform, SaaS con Stripe. |
-| 🎓 | [**ekoparty-ml-security**](https://github.com/daletoniris/ekoparty-ml-security) | ML para detección de amenazas — materiales de entrenamiento de Ekoparty AI Village. |
+| ⚛️ | [**quantic-encoder**](https://github.com/daletoniris/quantic-encoder) | Clasificador híbrido de logs WAF: KNN + DeepSeek LLM. GPU A100 bajo demanda via Terraform, SaaS con Stripe. |
+| 🎓 | [**ekoparty-ml-security**](https://github.com/daletoniris/ekoparty-ml-security) | ML para detección de amenazas — materiales de formación del Village de IA en Ekoparty. |
 
 ---
 
@@ -153,7 +153,7 @@ De vuelta a construir máquinas físicas. El mismo impulso del taller, ahora con
 | Año | Título | Tipo |
 |-----|--------|------|
 | 2018 | [**Redes Neuronales como nunca te las explicaron**](https://github.com/daletoniris/alchemind/blob/main/papers/neural-networks-2018.md) | Paper Educativo |
-| 2024 | [**WAF Enhanced with AI through Autonomous Dynamic Learning**](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) | Paper Académico |
+| 2024 | [**WAF Mejorado con IA mediante Aprendizaje Dinámico Autónomo**](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) | Paper Académico |
 | 2025 | [**La Realidad que Aprende**](https://github.com/daletoniris/alchemind/blob/main/papers/la-realidad-que-aprende.md) | Manifiesto |
 | 2026 | [**Alchemind**](https://github.com/daletoniris/alchemind) | Libro + Labs |
 
