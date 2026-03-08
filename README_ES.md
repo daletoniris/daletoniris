@@ -67,7 +67,7 @@ No es un dashboard. No es una herramienta de monitoreo. Es un **Centro de Operac
 - ⚡ **Bloqueo instantáneo** — los ataques críticos mueren en el primer request
 - 🔗 **Correlación multi-fase** — rastrea atacantes a través de reconocimiento → sondeo → explotación → exfiltración
 - 🤖 **Agente IA (63 herramientas)** — Claude, GPT-4, Gemini con fallback automático, 3 reintentos + backoff exponencial
-- 🔧 **Integraciones** — SOAR (IBM Resilient), Microsoft Defender, Jira/Confluence, Kafka, Telegram
+- 🔧 **Integraciones** — Home Assistant (LocalTuya), Alexa, IoT devices, Kafka, Tailscale mesh,Telegram
 - 📊 **Generación de documentos** — Reportes PDF, presentaciones PPTX, exports CSV mediante lenguaje natural
 - 🚁 **NUEVO: Control de Drones** — Control de vuelo DJI Tello por lenguaje natural: despegue, patrones de patrulla (cuadrado, triángulo, círculo, zigzag, barrido), cámara, telemetría, y modo simulación completo sin hardware
 
