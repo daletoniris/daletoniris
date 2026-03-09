@@ -138,7 +138,7 @@ Back to building physical machines. The same impulse from the workshop, now with
 | 📖 | [**Alchemind**](https://github.com/daletoniris/alchemind) | **The Book.** Complete journey through AI: history, neural networks, The Warden autonomous defense architecture, 4 hands-on labs, 2 papers. Everything I've learned in 13 years, compressed for you. |
 | 📄 | [**WAF-AI-Paper**](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) | Published academic paper: hybrid WAF combining Naive Bayes + GPT. Autonomous dynamic learning. Zero-day detection. |
 | 🏰 | [**TokioAI Platform**](https://github.com/TokioAI/tokioai-v1.8) | Production autonomous SOC. 26 WAF signatures, 30+ tools, multi-LLM agent, real-time ML classification, Telegram bot, Home Assistant/IoT/Alexa integration. |
-| 🕵️ | [**agent-smiths**](https://github.com/daletoniris/agent-smiths) | MCP-based autonomous security agent. LLM-driven planning, multi-tool orchestration (nmap, testssl, nikto). |
+| 🕵️ | [**agent-smiths**](https://github.com/daletoniris/agent-smiths) | Simple React autonomous security agent. LLM-driven planning, multi-tool orchestration (nmap, testssl, nikto). |
 | 🧪 | [**adversarial-waf-ml**](https://github.com/daletoniris/adversarial-waf-ml) | TensorFlow models that generate adversarial WAF evasion payloads through feedback loops. |
 | 🏴 | [**ai-security-ctf**](https://github.com/daletoniris/ai-security-ctf) | 5 CTF challenges for Ekoparty AI Village. Docker-ready. |
 | 📡 | [**iot-traffic-monitor**](https://github.com/daletoniris/iot-traffic-monitor) | KNN + Gemini AI for anomalous IoT traffic detection. Active learning pipeline. |
