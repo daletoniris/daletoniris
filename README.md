@@ -222,7 +222,7 @@ place nobody expects innovation to come from.
 
 ### 🌐 Connect
 
-**[tokioia.com](https://tokioia.com)** · **[airesiliencehub.com](https://airesiliencehub.com)** · **[LinkedIn](https://linkedin.com/in/daniel-dieser)** · **[Twitter](https://twitter.com/daletoniris)** · **[Telegram](https://t.me/mrmoz33)**
+**[tokioia.com](https://tokioia.com)** · **[airesiliencehub.space](https://airesiliencehub.space)** · **[LinkedIn](https://linkedin.com/in/daniel-dieser)** · **[Twitter](https://twitter.com/daletoniris)** · **[Telegram](https://t.me/mrmoz33)**
 
 ---
 
