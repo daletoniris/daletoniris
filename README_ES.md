@@ -80,6 +80,22 @@ Lideramos el **Village de IA en Ekoparty**, la conferencia de seguridad más gra
 
 ---
 
+### ✍️ Niperia Lab — Escritos
+> **"Hacking es romper — código, narrativas, ego, ilusiones. Lo que queda después es lo real."**
+
+**[→ Leer los Escritos](https://github.com/daletoniris/niperialab)**
+
+78 textos extraídos de las historias de [@niperialab](https://instagram.com/niperialab) en Instagram — poesía, ensayos, aforismos y reflexiones escritos entre 2022 y 2026. Donde la ingeniería se encuentra con la filosofía: sombra jungiana, civilizaciones cíclicas, consciencia, tecnología, y el arte de romper tus propios preceptos.
+
+- 🌙 **Poesía & Textos Líricos** — Versos sobre la existencia, el crecimiento y la búsqueda interior
+- 🔮 **Consciencia, Ego & Sombra** — 25 exploraciones sobre la sombra jungiana, integración y patrones ocultos
+- 🤖 **Filosofía de la Tecnología** — IA, procesadores biológicos vs artificiales, el futuro de la consciencia
+- 📜 **Ensayos & Reflexiones** — Pensamientos largos sobre la vida, el proceso y la evolución personal
+
+`Filosofía` `Psicología` `Jung` `Tecnología` `Poesía` `Consciencia`
+
+---
+
 ## 🗺️ El Viaje — Cada Proyecto Me Trajo Hasta Acá
 
 No empecé en ciberseguridad. No empecé con código. Empecé como **un pibe en el taller de electrónica de mi hermano** en Villaguay, Entre Ríos — un barrio chico frente a un cementerio. Construíamos máquinas con las manos: dispositivos de sonido, repelentes de mosquitos, transmisores de radio FM, micrófonos espía. Después construí instrumentos científicos de la nada — un pluviómetro, un barómetro, un higrómetro hecho con cabello humano, un hormiguero artificial, un telescopio con lentes viejos. Ese pibe nunca se fue.

@@ -80,6 +80,22 @@ We lead the **AI Village at Ekoparty**, the largest security conference in Latin
 
 ---
 
+### ✍️ Niperia Lab — Writings
+> **"Hacking is breaking — code, narratives, ego, illusions. What remains is real."**
+
+**[→ Read the Writings](https://github.com/daletoniris/niperialab)**
+
+78 texts extracted from [@niperialab](https://instagram.com/niperialab) Instagram stories — poetry, essays, aphorisms, and reflections written between 2022 and 2026. Where engineering meets philosophy: Jungian shadow, cyclic civilizations, consciousness, technology, and the art of breaking your own preconceptions.
+
+- 🌙 **Poetry & Lyric Texts** — Verses on existence, growth, and the inner search
+- 🔮 **Consciousness, Ego & Shadow** — 25 explorations on Jungian shadow, integration, and hidden patterns
+- 🤖 **Philosophy of Technology** — AI, biological vs artificial processors, the future of consciousness
+- 📜 **Essays & Reflections** — Long-form thoughts on life, process, and personal evolution
+
+`Philosophy` `Psychology` `Jung` `Technology` `Poetry` `Consciousness`
+
+---
+
 ## 🗺️ The Journey — Every Project Led Here
 
 I didn't start in cybersecurity. I didn't start with code. I started as **a kid in my brother's electronics workshop** in Villaguay, Entre Ríos — a small neighborhood facing a cemetery. We built machines with our hands: sound devices, mosquito repellers, FM radio transmitters, spy microphones. Then I built scientific instruments from nothing — a pluviometer, a barometer, a hygrometer made from human hair, an ant farm, a telescope from old lenses. That kid never left.
