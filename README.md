@@ -73,6 +73,24 @@ Not a dashboard. Not a monitoring tool. A full **Security Operations Center** th
 
 `Python` `FastAPI` `PostgreSQL` `Kafka` `Nginx` `Docker` `GCP` `Anthropic Claude` `OpenAI GPT-4` `Google Gemini` `DJI Tello`
 
+
+### ⚡ TokioAI Engine — Open Source
+> **"Your AI actually does things."**
+
+**[→ Get TokioAI](https://github.com/daletoniris/tokioai)**
+
+The engine behind TokioAI, released as open source. Connects any AI model to your real infrastructure through **native tool calling** — the same structured protocol Claude, GPT, and Gemini were trained to use. No wrappers. No regex. No plugins.
+
+- 🔧 **10 built-in tools** — shell execution, SSH (any server), file ops, search, diagnostics
+- 🧠 **Multi-provider** — Claude, GPT, Gemini, Ollama, OpenRouter. Switch models at runtime
+- 🔄 **Multi-round execution** — the model diagnoses, acts, verifies, iterates (up to 25 rounds)
+- 📦 **~1300 lines of Python** — no frameworks, no bloat. Just the engine
+
+Tell it *"find why nginx is 502 and fix it"* and it SSHs in, reads logs, finds the root cause, patches the config, and verifies the fix. One prompt.
+
+`Python` `Claude` `GPT` `Gemini` `Ollama` `Tool Calling`
+
+---
 ### 🧠 AI Resilience Hub — Ekoparty AI Village
 **[airesiliencehub.com](https://airesiliencehub.com)**
 
