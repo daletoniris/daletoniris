@@ -73,6 +73,24 @@ No es un dashboard. No es una herramienta de monitoreo. Es un **Centro de Operac
 
 `Python` `FastAPI` `PostgreSQL` `Kafka` `Nginx` `Docker` `GCP` `Anthropic Claude` `OpenAI GPT-4` `Google Gemini` `DJI Tello`
 
+
+### ⚡ TokioAI Engine — Open Source
+> **"Tu IA realmente hace cosas."**
+
+**[→ Obtener TokioAI](https://github.com/daletoniris/tokioai)**
+
+El motor detrás de TokioAI, liberado como open source. Conecta cualquier modelo de IA a tu infraestructura real mediante **tool calling nativo** — el mismo protocolo estructurado con el que Claude, GPT y Gemini fueron entrenados. Sin wrappers. Sin regex. Sin plugins.
+
+- 🔧 **10 herramientas integradas** — ejecución de shell, SSH (cualquier servidor), operaciones de archivos, búsqueda, diagnósticos
+- 🧠 **Multi-proveedor** — Claude, GPT, Gemini, Ollama, OpenRouter. Cambiá de modelo en runtime
+- 🔄 **Ejecución multi-ronda** — el modelo diagnostica, actúa, verifica, itera (hasta 25 rondas)
+- 📦 **~1300 líneas de Python** — sin frameworks, sin bloat. Solo el motor
+
+Decile *"encontrá por qué nginx da 502 y arreglalo"* y se conecta por SSH, lee logs, encuentra la causa raíz, parchea la config y verifica el fix. Un solo prompt.
+
+`Python` `Claude` `GPT` `Gemini` `Ollama` `Tool Calling`
+
+---
 ### 🧠 AI Resilience Hub — Village de IA en Ekoparty
 **[airesiliencehub.com](https://airesiliencehub.com)**
 
