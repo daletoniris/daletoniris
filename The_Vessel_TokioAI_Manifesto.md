@@ -154,23 +154,7 @@ All with bash, SSH, and files. There is no drone tool. There is no coffee tool. 
 
 ---
 
-## Chapter 7: Cato Networks and Security in Practice
-
-At Ekoparty Miami 2025, TokioAI undergoes a public challenge with Cato Networks, a company valued at over $3 billion. The audience attempts to hack a real agent protected by Cato SASE Cloud.
-
-Defense in depth with five layers:
-
-1. **Cato** at the network level
-2. **System prompt** at the model level
-3. **Blacklists** in the code
-4. **Controlled environment**
-5. **OS permissions**
-
-To compromise the system, you must bypass all **FIVE** layers. That is real security.
-
----
-
-## Chapter 8: Repurposing
+## Chapter 7: Repurposing
 
 Using devices made for one purpose for an entirely different one:
 
@@ -183,7 +167,7 @@ The generic vessel enables infinite repurposing.
 
 ---
 
-## Chapter 9: Built in Patagonia
+## Chapter 8: Built in Patagonia
 
 TokioAI was built in Puerto Madryn, without investors, without a team, without an office. At night, after work, with a daughter sleeping.
 
