@@ -77,7 +77,7 @@ Not a dashboard. Not a monitoring tool. A full **Security Operations Center** th
 ### 📜 El Envase — Essay & Manifesto
 > **"An AI model doesn't need a framework that tells it HOW to think. It needs hands."**
 
-**[→ Read the Essay (PDF)](El_Envase_TokioAI_Ensayo.pdf)** | **[→ Read the Manifesto (PDF)](El_Envase_Manifiesto_TokioAI.pdf)**
+**[→ Read the Essay (PDF)](El_Envase_TokioAI_Ensayo.pdf)** | **[→ Read the Manifesto](El_Envase_Manifiesto_TokioAI.md)**
 
 A philosophical and technical essay born from building [TokioAI Engine](https://github.com/daletoniris/tokioai) — exploring why simplicity beats complexity in the age of AI agents. The core thesis: LLMs are brilliant surgeons trapped in medieval armor. Every framework (LangChain, CrewAI, AutoGPT) adds layers the model doesn't need. What it needs is a **container** — a bottle for the water, not a water-processing plant.
 

@@ -77,7 +77,7 @@ No es un dashboard. No es una herramienta de monitoreo. Es un **Centro de Operac
 ### 📜 El Envase — Ensayo y Manifiesto
 > **"Un modelo de IA no necesita un framework que le diga CÓMO pensar. Necesita manos."**
 
-**[→ Leer el Ensayo (PDF)](El_Envase_TokioAI_Ensayo.pdf)** | **[→ Leer el Manifiesto (PDF)](El_Envase_Manifiesto_TokioAI.pdf)**
+**[→ Leer el Ensayo (PDF)](El_Envase_TokioAI_Ensayo.pdf)** | **[→ Leer el Manifiesto](El_Envase_Manifiesto_TokioAI.md)**
 
 Un ensayo filosófico y técnico nacido de construir [TokioAI Engine](https://github.com/daletoniris/tokioai) — explorando por qué la simpleza le gana a la complejidad en la era de los agentes de IA. La tesis central: los LLMs son cirujanos brillantes atrapados en una armadura medieval. Cada framework (LangChain, CrewAI, AutoGPT) agrega capas que el modelo no necesita. Lo que necesita es un **envase** — una botella para el agua, no una planta procesadora de agua.
 
