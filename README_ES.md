@@ -74,6 +74,21 @@ No es un dashboard. No es una herramienta de monitoreo. Es un **Centro de Operac
 `Python` `FastAPI` `PostgreSQL` `Kafka` `Nginx` `Docker` `GCP` `Anthropic Claude` `OpenAI GPT-4` `Google Gemini` `DJI Tello`
 
 
+### 📜 El Envase — Ensayo y Manifiesto
+> **"Un modelo de IA no necesita un framework que le diga CÓMO pensar. Necesita manos."**
+
+**[→ Leer el Ensayo (PDF)](El_Envase_TokioAI_Ensayo.pdf)** | **[→ Leer el Manifiesto (PDF)](El_Envase_Manifiesto_TokioAI.pdf)**
+
+Un ensayo filosófico y técnico nacido de construir [TokioAI Engine](https://github.com/daletoniris/tokioai) — explorando por qué la simpleza le gana a la complejidad en la era de los agentes de IA. La tesis central: los LLMs son cirujanos brillantes atrapados en una armadura medieval. Cada framework (LangChain, CrewAI, AutoGPT) agrega capas que el modelo no necesita. Lo que necesita es un **envase** — una botella para el agua, no una planta procesadora de agua.
+
+- 🧠 **La filosofía del Envase** — un agente de IA debe ejecutar lo que el modelo pide, no decidir POR el modelo. 4,168 líneas de Python, cero frameworks, y un solo desarrollador en la Patagonia controlando drones, robots, servidores, IoT y firewalls
+- 🔪 **Tres herramientas reales** — toda capacidad se reduce a: ejecutar comandos, manipular archivos, conectarse a máquinas. Todo lo demás es una variación. *"No hacen falta herramientas especializadas para cada tarea. Hace falta UN CUCHILLO BUENO y un chef que sepa usarlo"*
+- 🎭 **Teatro de seguridad** — por qué los diálogos de confirmación (`[Y/N]`) son la ilusión de seguridad, no seguridad real. sudo pide contraseña y tiene miles de exploits. Claude Code pide confirmación y los usuarios ponen Y sin leer. La seguridad real es defensa en profundidad, no popups
+- ⚡ **El Mediador** — el rol humano pasa de "programador" a "mediador" entre la IA y la realidad. Tres habilidades: Técnica (conocer la infra), Visión (ver para qué sirve REALMENTE la IA) y Flow (entrar en sintonía con el modelo)
+- 🏗️ **Prueba concreta** — TokioAI Engine es el ejemplo vivo. El ensayo fue generado POR el sistema que describe, enviado por Telegram, renderizado como PDF — el agente usándose a sí mismo para articular su propia filosofía
+
+`Filosofía IA` `Arquitectura de Agentes` `Tool Calling` `Simpleza` `Crítica a LangChain` `Agentes Autónomos`
+
 ### ⚡ TokioAI Engine — Open Source
 > **"Tu IA realmente hace cosas."**
 
