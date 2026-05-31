@@ -1,7 +1,7 @@
 # El Envase: Un Manifiesto sobre la Simpleza en la Era de los Agentes de IA
 
 **Por Daniel Dieser — TokioAI / AIResilience Hub**
-**Puerto Madryn, Patagonia Argentina — 2025**
+**Puerto Madryn, Patagonia Argentina — 2026**
 
 ---
 
