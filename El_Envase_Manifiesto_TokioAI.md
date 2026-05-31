@@ -191,6 +191,6 @@ Los modelos de IA nos devolvieron el verbo. Los envases nos devolvieron las mano
 
 *Construido en la Patagonia, Argentina. 4,000 líneas. Cero frameworks. Un envase. Sea la luz.*
 
-**Daniel Dieser, 2025**
+**Daniel Dieser, 2026**
 **TokioAI / AIResilience Hub**
 **[github.com/daletoniris/tokioai](https://github.com/daletoniris/tokioai)**
