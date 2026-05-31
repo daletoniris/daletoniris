@@ -1,7 +1,7 @@
 # The Vessel: A Manifesto on Simplicity in the Age of AI Agents
 
 **By Daniel Dieser — TokioAI / AIResilience Hub**
-**Puerto Madryn, Patagonia Argentina — 2025**
+**Puerto Madryn, Patagonia Argentina — 2026**
 
 ---
 
