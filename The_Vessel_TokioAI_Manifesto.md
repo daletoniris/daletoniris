@@ -16,7 +16,7 @@ He didn't compile. He didn't deploy. He didn't ask for confirmation. He didn't o
 
 Three thousand years later, in Hebrew the word *"davar"* simultaneously means "word" and "thing." For the ancients, there was no difference between saying something and creating it. The word was the fundamental creative act.
 
-In 2025, something extraordinary is happening: we are going back to the beginning. We are returning to the verb as a creative act. And this essay attempts to explain how a guy alone in Argentine Patagonia, with 4,000 lines of Python and zero frameworks, built a system that controls drones, robots, coffee makers, networks, servers, and human health, simply by speaking.
+In 2026, something extraordinary is happening: we are going back to the beginning. We are returning to the verb as a creative act. And this essay attempts to explain how a guy alone in Argentine Patagonia, with 4,000 lines of Python and zero frameworks, built a system that controls drones, robots, coffee makers, networks, servers, and human health, simply by speaking.
 
 This essay is not about artificial intelligence. It's about a vessel.
 
@@ -191,6 +191,6 @@ AI models gave us back the verb. Vessels gave us back our hands. Mediators conne
 
 *Built in Patagonia, Argentina. 4,000 lines. Zero frameworks. One vessel. Let there be light.*
 
-**Daniel Dieser, 2025**
+**Daniel Dieser, 2026**
 **TokioAI / AIResilience Hub**
 **[github.com/daletoniris/tokioai](https://github.com/daletoniris/tokioai)**
