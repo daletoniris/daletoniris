@@ -16,7 +16,7 @@ No compiló. No deployó. No pidió confirmación. No abrió un pull request. **
 
 Tres mil años después, en hebreo la palabra *"davar"* significa simultáneamente "palabra" y "cosa". Para los antiguos, no había diferencia entre decir algo y crearlo. La palabra era el acto creativo fundamental.
 
-En 2025, algo extraordinario está sucediendo: estamos volviendo al principio. Estamos volviendo al verbo como acto creativo. Y este ensayo intenta explicar cómo un tipo solo en la Patagonia argentina, con 4,000 líneas de Python y sin ningún framework, construyó un sistema que controla drones, robots, cafeteras, redes, servidores y salud humana, simplemente hablando.
+En 2026, algo extraordinario está sucediendo: estamos volviendo al principio. Estamos volviendo al verbo como acto creativo. Y este ensayo intenta explicar cómo un tipo solo en la Patagonia argentina, con 4,000 líneas de Python y sin ningún framework, construyó un sistema que controla drones, robots, cafeteras, redes, servidores y salud humana, simplemente hablando.
 
 Este ensayo no es sobre inteligencia artificial. Es sobre un envase.
 
