@@ -129,6 +129,23 @@ We lead the **AI Village at Ekoparty**, the largest security conference in Latin
 
 ---
 
+### 📕 Desde el Centro — Book
+> **"The system doesn't respond to what you affirm. It responds to where you affirm it from."**
+
+**[→ Read the Book](https://github.com/daletoniris/desde-el-centro)**
+
+A book about the moment you stop explaining yourself — and everything shifts. Drawing from Kabbalah, Hermeticism, Taoism, and Jungian psychology, it maps the mechanics of energy, intention, and silence. Written for builders, creators, and anyone who's tired of justifying their existence.
+
+- 🕯️ **Part I — The Drain** — Why explaining yourself destroys you. The Kabbalistic cost of unnecessary words
+- ⚙️ **Part II — The System** — How reality calibrates states, not stories. Kavvanah, vibration, the quantum observer
+- 🎯 **Part III — The Center** — Keter, the Jungian Self, the Tao. What the center feels like and how to get there
+- ⚡ **Part IV — The Word** — Bereshit: God created with words. Your mouth as a creation terminal. The four laws of speech
+- 🔨 **Part V — The Builder** — Practical application. Building as prayer. The simulation as framework
+
+`Kabbalah` `Hermeticism` `Taoism` `Jung` `Energy` `Consciousness` `Builders`
+
+---
+
 ## 🗺️ The Journey — Every Project Led Here
 
 I didn't start in cybersecurity. I didn't start with code. I started as **a kid in my brother's electronics workshop** in Villaguay, Entre Ríos — a small neighborhood facing a cemetery. We built machines with our hands: sound devices, mosquito repellers, FM radio transmitters, spy microphones. Then I built scientific instruments from nothing — a pluviometer, a barometer, a hygrometer made from human hair, an ant farm, a telescope from old lenses. That kid never left.
@@ -205,6 +222,7 @@ Back to building physical machines. The same impulse from the workshop, now with
 | 2024 | [**WAF Enhanced with AI through Autonomous Dynamic Learning**](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) | Academic Paper |
 | 2025 | [**La Realidad que Aprende**](https://github.com/daletoniris/alchemind/blob/main/papers/la-realidad-que-aprende.md) | Manifesto |
 | 2026 | [**Alchemind**](https://github.com/daletoniris/alchemind) | Book + Labs |
+| 2026 | [**Desde el Centro**](https://github.com/daletoniris/desde-el-centro) | Book |
 
 ---
 
