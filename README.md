@@ -73,6 +73,32 @@ Not a dashboard. Not a monitoring tool. A full **Security Operations Center** th
 
 `Python` `FastAPI` `PostgreSQL` `Kafka` `Nginx` `Docker` `GCP` `Anthropic Claude` `OpenAI GPT-4` `Google Gemini` `DJI Tello`
 
+---
+
+### 🤖 TokioNav — AI-Controlled Autonomous Robot Navigation
+> **"LLMs drive robots. For real."**
+
+**[→ Source Code](https://github.com/daletoniris/tokionav)**
+
+No SLAM. No ROS. No costmaps. No waypoints. Just an LLM that **sees through a camera and drives**. Tell it *"go to the red cup"* and it scans the room, finds the target, approaches it, and stops in front of it. Tell it *"explore"* and it methodically surveys the environment while building a world model of everything it sees.
+
+```
+You: "go to pikachu"
+AI:  [scanning 360°...] "I see a Pikachu at 2 o'clock, ~80cm away"
+     [pivots → centers → advances 15cm... checks... 15cm...]
+     "Arrived. Pikachu is directly in front of me."
+```
+
+- 👁️ **Vision-First Navigation** — Gemini/Kimi K3 analyze camera frames in real-time, no pre-trained object models needed. Navigate to *anything* describable in language
+- 🔄 **10,500+ lines of Python** — modular architecture: sensors, vision, planning, execution, world model, dashboard
+- 📡 **RPLIDAR + Sonar Fusion** — LIDAR for obstacle mapping and escape routing, ultrasonic sonar for close-range safety, ICP-based scan matching for odometry
+- 🧭 **AI Navigator** — goal decomposition, visual servoing, 360° search scans, dynamic obstacle avoidance, autonomous exploration with frontier detection
+- 🗺️ **Live Dashboard** — real-time map, LIDAR overlay, camera feed, object markers, command interface — all from a browser
+- 🏠 **Visual Home** — "go home" finds a visual marker (Pikachu, any object) instead of GPS/coordinates. Works anywhere, indoors or out
+
+`Python` `Gemini` `Kimi K3` `Raspberry Pi` `RPLIDAR` `OpenCV` `FastAPI` `WebSocket`
+
+---
 
 ### 📜 El Envase — Essay & Manifesto
 > **"An AI model doesn't need a framework that tells it HOW to think. It needs hands."**
@@ -204,6 +230,7 @@ Back to building physical machines. The same impulse from the workshop, now with
 | 📖 | [**Alchemind**](https://github.com/daletoniris/alchemind) | **The Book.** Complete journey through AI: history, neural networks, The Warden autonomous defense architecture, 4 hands-on labs, 2 papers. Everything I've learned in 13 years, compressed for you. |
 | 📄 | [**WAF-AI-Paper**](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) | Published academic paper: hybrid WAF combining Naive Bayes + GPT. Autonomous dynamic learning. Zero-day detection. |
 | 🏰 | [**TokioAI Platform**](https://github.com/TokioAI/tokioai-v1.8) | Production autonomous SOC. 26 WAF signatures, 30+ tools, multi-LLM agent, real-time ML classification, Telegram bot, Home Assistant/IoT/Alexa integration. |
+| 🤖 | [**TokioNav**](https://github.com/daletoniris/tokionav) | AI-driven robot navigation. LLMs see through cameras and drive — no SLAM, no ROS, no waypoints. RPLIDAR + sonar fusion, visual servoing, live dashboard. 10,500+ lines. |
 | 🕵️ | [**agent-smiths**](https://github.com/daletoniris/agent-smiths) | Simple React autonomous security agent. LLM-driven planning, multi-tool orchestration (nmap, testssl, nikto). |
 | 🧪 | [**adversarial-waf-ml**](https://github.com/daletoniris/adversarial-waf-ml) | TensorFlow models that generate adversarial WAF evasion payloads through feedback loops. |
 | 🏴 | [**ai-security-ctf**](https://github.com/daletoniris/ai-security-ctf) | 5 CTF challenges for Ekoparty AI Village. Docker-ready. |

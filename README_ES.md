@@ -73,6 +73,32 @@ No es un dashboard. No es una herramienta de monitoreo. Es un **Centro de Operac
 
 `Python` `FastAPI` `PostgreSQL` `Kafka` `Nginx` `Docker` `GCP` `Anthropic Claude` `OpenAI GPT-4` `Google Gemini` `DJI Tello`
 
+---
+
+### 🤖 TokioNav — Navegacion Autonoma de Robots con IA
+> **"Los LLMs manejan robots. De verdad."**
+
+**[→ Codigo Fuente](https://github.com/daletoniris/tokionav)**
+
+Sin SLAM. Sin ROS. Sin costmaps. Sin waypoints. Solo un LLM que **ve por la camara y maneja**. Decile *"anda al vaso rojo"* y escanea la habitacion, encuentra el objetivo, se acerca y frena adelante. Decile *"explora"* y recorre el entorno construyendo un modelo del mundo con todo lo que ve.
+
+```
+Vos: "anda al pikachu"
+IA:  [escaneando 360°...] "Veo un Pikachu a las 2, ~80cm"
+     [gira → centra → avanza 15cm... verifica... 15cm...]
+     "Llegue. El Pikachu esta justo adelante mio."
+```
+
+- 👁️ **Navegacion por Vision** — Gemini/Kimi K3 analizan frames de camara en tiempo real, sin modelos de objetos pre-entrenados. Navega hacia *cualquier cosa* describible en lenguaje
+- 🔄 **10.500+ lineas de Python** — arquitectura modular: sensores, vision, planning, ejecucion, modelo del mundo, dashboard
+- 📡 **Fusion RPLIDAR + Sonar** — LIDAR para mapeo de obstaculos y rutas de escape, sonar ultrasonico para seguridad cercana, ICP scan matching para odometria
+- 🧭 **AI Navigator** — descomposicion de objetivos, visual servoing, escaneos 360°, evasion dinamica de obstaculos, exploracion autonoma con deteccion de fronteras
+- 🗺️ **Dashboard en Vivo** — mapa en tiempo real, overlay LIDAR, feed de camara, marcadores de objetos, interfaz de comandos — todo desde el browser
+- 🏠 **Visual Home** — "volver a casa" busca un marcador visual (Pikachu, cualquier objeto) en vez de GPS/coordenadas. Funciona en cualquier lugar
+
+`Python` `Gemini` `Kimi K3` `Raspberry Pi` `RPLIDAR` `OpenCV` `FastAPI` `WebSocket`
+
+---
 
 ### 📜 El Envase — Ensayo y Manifiesto
 > **"Un modelo de IA no necesita un framework que le diga CÓMO pensar. Necesita manos."**
@@ -187,6 +213,7 @@ De vuelta a construir máquinas físicas. El mismo impulso del taller, ahora con
 | 📖 | [**Alchemind**](https://github.com/daletoniris/alchemind) | **El Libro.** Viaje completo por la IA: historia, redes neuronales, arquitectura de defensa autónoma The Warden, 4 laboratorios prácticos, 2 papers. Todo lo que aprendí en 13 años, comprimido para vos. |
 | 📄 | [**WAF-AI-Paper**](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) | Paper académico publicado: WAF híbrido combinando Naive Bayes + GPT. Aprendizaje dinámico autónomo. Detección de zero-day. |
 | 🏰 | [**TokioAI Platform**](https://github.com/TokioAI/tokioai-v1.8) | SOC autónomo en producción. 26 firmas WAF, 63 herramientas, agente multi-LLM, clasificación ML en tiempo real, bot de Telegram, integración SOAR/Defender/Jira. |
+| 🤖 | [**TokioNav**](https://github.com/daletoniris/tokionav) | Navegacion autonoma con IA. LLMs ven por la camara y manejan — sin SLAM, sin ROS, sin waypoints. Fusion RPLIDAR + sonar, visual servoing, dashboard en vivo. 10.500+ lineas. |
 | 🕵️ | [**agent-smiths**](https://github.com/daletoniris/agent-smiths) | Agente de seguridad autónomo basado en MCP. Planificación con LLM, orquestación multi-herramienta (nmap, testssl, nikto). |
 | 🧪 | [**adversarial-waf-ml**](https://github.com/daletoniris/adversarial-waf-ml) | Modelos TensorFlow que generan payloads adversariales de evasión WAF mediante ciclos de retroalimentación. |
 | 🏴 | [**ai-security-ctf**](https://github.com/daletoniris/ai-security-ctf) | 5 desafíos CTF para el Village de IA en Ekoparty. Listos para Docker. |
