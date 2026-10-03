@@ -238,6 +238,8 @@ Back to building physical machines. The same impulse from the workshop, now with
 | 🐳 | [**pentest-docker-tools**](https://github.com/daletoniris/pentest-docker-tools) | Dockerized pentesting: remote nmap + AI-assisted Kali interface. |
 | ⚛️ | [**quantic-encoder**](https://github.com/daletoniris/quantic-encoder) | Hybrid WAF log classifier: KNN + DeepSeek LLM. On-demand A100 GPU via Terraform, Stripe SaaS. |
 | 🎓 | [**ekoparty-ml-security**](https://github.com/daletoniris/ekoparty-ml-security) | ML for threat detection — Ekoparty AI Village training materials. |
+| 🧠 | [**tokioai-fine-tuning-guide**](https://github.com/daletoniris/tokioai-fine-tuning-guide) | Complete end-to-end guide for fine-tuning LLMs. 7 chapters covering fundamentals, dataset design, GPU setup (cloud + tinybox), LoRA/QLoRA training, GGUF conversion, and deployment. Reproducible scripts included. |
+| 📄 | [**tokioai-fine-tuning-paper**](https://github.com/daletoniris/tokioai-fine-tuning-paper) | Technical paper: fine-tuning Qwen2.5 (3B/14B/72B) and Devstral (24B) for tool calling. Full pipeline from dataset creation to Ollama deployment. Training scripts for every model size. |
 
 ---
 
@@ -250,6 +252,8 @@ Back to building physical machines. The same impulse from the workshop, now with
 | 2025 | [**La Realidad que Aprende**](https://github.com/daletoniris/alchemind/blob/main/papers/la-realidad-que-aprende.md) | Manifesto |
 | 2026 | [**Alchemind**](https://github.com/daletoniris/alchemind) | Book + Labs |
 | 2026 | [**Desde el Centro**](https://github.com/daletoniris/desde-el-centro) | Book |
+| 2026 | [**Fine-Tuning LLMs for Tool Calling**](https://github.com/daletoniris/tokioai-fine-tuning-paper) | Technical Paper |
+| 2026 | [**Fine-Tuning LLMs: End-to-End Guide**](https://github.com/daletoniris/tokioai-fine-tuning-guide) | Guide + Scripts |
 
 ---
 

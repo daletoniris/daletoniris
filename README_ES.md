@@ -221,6 +221,8 @@ De vuelta a construir máquinas físicas. El mismo impulso del taller, ahora con
 | 🐳 | [**pentest-docker-tools**](https://github.com/daletoniris/pentest-docker-tools) | Pentesting dockerizado: nmap remoto + interfaz Kali asistida por IA. |
 | ⚛️ | [**quantic-encoder**](https://github.com/daletoniris/quantic-encoder) | Clasificador híbrido de logs WAF: KNN + DeepSeek LLM. GPU A100 bajo demanda via Terraform, SaaS con Stripe. |
 | 🎓 | [**ekoparty-ml-security**](https://github.com/daletoniris/ekoparty-ml-security) | ML para detección de amenazas — materiales de formación del Village de IA en Ekoparty. |
+| 🧠 | [**tokioai-fine-tuning-guide**](https://github.com/daletoniris/tokioai-fine-tuning-guide) | Guia completa end-to-end para fine-tuning de LLMs. 7 capitulos: fundamentos, diseño de dataset, setup GPU (cloud + tinybox), training LoRA/QLoRA, conversion GGUF, deploy. Scripts reproducibles incluidos. |
+| 📄 | [**tokioai-fine-tuning-paper**](https://github.com/daletoniris/tokioai-fine-tuning-paper) | Paper técnico: fine-tuning de Qwen2.5 (3B/14B/72B) y Devstral (24B) para tool calling. Pipeline completo desde creación de dataset hasta deploy con Ollama. Scripts de training para cada tamaño. |
 
 ---
 
@@ -232,6 +234,9 @@ De vuelta a construir máquinas físicas. El mismo impulso del taller, ahora con
 | 2024 | [**WAF Mejorado con IA mediante Aprendizaje Dinámico Autónomo**](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) | Paper Académico |
 | 2025 | [**La Realidad que Aprende**](https://github.com/daletoniris/alchemind/blob/main/papers/la-realidad-que-aprende.md) | Manifiesto |
 | 2026 | [**Alchemind**](https://github.com/daletoniris/alchemind) | Libro + Labs |
+| 2026 | [**Desde el Centro**](https://github.com/daletoniris/desde-el-centro) | Libro |
+| 2026 | [**Fine-Tuning LLMs for Tool Calling**](https://github.com/daletoniris/tokioai-fine-tuning-paper) | Paper Técnico |
+| 2026 | [**Fine-Tuning LLMs: Guía End-to-End**](https://github.com/daletoniris/tokioai-fine-tuning-guide) | Guía + Scripts |
 
 ---
 
