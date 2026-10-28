@@ -248,6 +248,7 @@ Back to building physical machines. The same impulse from the workshop, now with
 | 📄 | [**WAF-AI-Paper**](https://github.com/daletoniris/Web-Application-Firewall-Purple-AI-Paper) | Published academic paper: hybrid WAF combining Naive Bayes + GPT. Autonomous dynamic learning. Zero-day detection. |
 | 🏰 | [**TokioAI Platform**](https://github.com/TokioAI/tokioai-v1.8) | Production autonomous SOC. 26 WAF signatures, 30+ tools, multi-LLM agent, real-time ML classification, Telegram bot, Home Assistant/IoT/Alexa integration. |
 | 🤖 | [**TokioNav**](https://github.com/daletoniris/tokionav) | AI-driven robot navigation. LLMs see through cameras and drive — no SLAM, no ROS, no waypoints. RPLIDAR + sonar fusion, visual servoing, live dashboard. 10,500+ lines. |
+| 🔒 | [**Prompt Firewall**](https://github.com/daletoniris/prompt-firewall) | Production-grade prompt injection defense. 4-layer pipeline: regex patterns, obfuscation decoder, PII sanitizer, response validator. Zero dependencies, sub-millisecond. |
 | 🕵️ | [**agent-smiths**](https://github.com/daletoniris/agent-smiths) | Simple React autonomous security agent. LLM-driven planning, multi-tool orchestration (nmap, testssl, nikto). |
 | 🧪 | [**adversarial-waf-ml**](https://github.com/daletoniris/adversarial-waf-ml) | TensorFlow models that generate adversarial WAF evasion payloads through feedback loops. |
 | 🏴 | [**ai-security-ctf**](https://github.com/daletoniris/ai-security-ctf) | 5 CTF challenges for Ekoparty AI Village. Docker-ready. |
