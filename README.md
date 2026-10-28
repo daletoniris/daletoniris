@@ -100,6 +100,23 @@ AI:  [scanning 360°...] "I see a Pikachu at 2 o'clock, ~80cm away"
 
 ---
 
+### 🔒 Prompt Firewall — LLM Input/Output Defense
+> **"Block prompt injection before it reaches your model. Zero dependencies. Sub-millisecond."**
+
+**[→ Source Code](https://github.com/daletoniris/prompt-firewall)**
+
+Production-grade prompt injection defense extracted from TokioAI's production systems. 4-layer pipeline: regex pattern engine, obfuscation decoder (homoglyphs, leetspeak, encoded payloads), PII sanitizer (20+ categories, Luhn-validated credit cards), and post-LLM response validator (anti-hallucination). Pure Python stdlib, no API calls, no GPU — drops into any project with a single import.
+
+- 🛡️ **4-layer defense** — pattern matching, obfuscation decoding, PII redaction, response validation
+- ⚡ **<0.5ms per prompt** — regex-first architecture, ML classifier optional second layer
+- 🔍 **6 attack categories** — jailbreak, ignore_previous, role_hijack, data_extraction, encoding_bypass, delimiter_injection
+- 🧹 **PII sanitizer** — credit cards, SSN, API keys, passwords, crypto wallets, emails, phones, and more
+- 📦 **Zero dependencies** — pure Python stdlib, copy one file and go
+
+`Python` `Regex` `NLP` `LLM Security` `Prompt Injection`
+
+---
+
 ### 📜 El Envase — Essay & Manifesto
 > **"An AI model doesn't need a framework that tells it HOW to think. It needs hands."**
 
@@ -329,3 +346,4 @@ place nobody expects innovation to come from.
 *If you got this far, you should probably [star something](https://github.com/daletoniris?tab=repositories).* ⭐
 
 </div>
+
