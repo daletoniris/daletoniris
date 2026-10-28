@@ -100,6 +100,23 @@ IA:  [escaneando 360°...] "Veo un Pikachu a las 2, ~80cm"
 
 ---
 
+### 🔒 Prompt Firewall — Defensa de Entrada/Salida para LLMs
+> **"Bloqueá prompt injection antes de que llegue a tu modelo. Cero dependencias. Sub-milisegundo."**
+
+**[→ Código Fuente](https://github.com/daletoniris/prompt-firewall)**
+
+Defensa contra prompt injection de grado producción, extraída de los sistemas productivos de TokioAI. Pipeline de 4 capas: motor de patrones regex, decodificador de ofuscación (homoglifos, leetspeak, payloads codificados), sanitizador de PII (20+ categorías, tarjetas validadas con Luhn), y validador de respuestas post-LLM (anti-alucinación). Python stdlib puro, sin API calls, sin GPU — se integra en cualquier proyecto con un solo import.
+
+- 🛡️ **4 capas de defensa** — pattern matching, decodificación de ofuscación, redacción de PII, validación de respuesta
+- ⚡ **<0.5ms por prompt** — arquitectura regex-first, clasificador ML opcional como segunda capa
+- 🔍 **6 categorías de ataque** — jailbreak, ignore_previous, role_hijack, data_extraction, encoding_bypass, delimiter_injection
+- 🧹 **Sanitizador PII** — tarjetas de crédito, SSN, API keys, passwords, wallets crypto, emails, teléfonos, y más
+- 📦 **Cero dependencias** — Python stdlib puro, copiá un archivo y listo
+
+`Python` `Regex` `NLP` `LLM Security` `Prompt Injection`
+
+---
+
 ### 📜 El Envase — Ensayo y Manifiesto
 > **"Un modelo de IA no necesita un framework que le diga CÓMO pensar. Necesita manos."**
 
@@ -313,3 +330,4 @@ desde un lugar del que nadie espera que salga innovación.
 *Si llegaste hasta acá, probablemente deberías [darle una estrella a algo](https://github.com/daletoniris?tab=repositories).* ⭐
 
 </div>
+
